@@ -20,7 +20,7 @@ translate Japanese ch0_main_a0aaf316:
     "でも俺はやれやれと横断歩道の前でサヨリを待った。"
 
 translate Japanese ch0_main_cf958be9:
-    s 4p "「はあ……はぁ……」"
+    s 4p "「はあ…はぁ…」"
 
 translate Japanese ch0_main_d5b6fac2:
     s "「また寝坊しちゃった！」"
@@ -62,7 +62,7 @@ translate Japanese ch0_main_6fc63fca:
     "学校に近づくと、通学路には他の生徒の姿が徐々に増えていく。"
 
 translate Japanese ch0_main_3142c5a4:
-    s "「ところでさ、[player]……」"
+    s "「ところでさ、[player]…」"
 
 translate Japanese ch0_main_02182e1b:
     s "「まだ入る部活は決めてないの？」"
@@ -107,10 +107,10 @@ translate Japanese ch0_main_0df692b5:
     s 4g "「ちゃんと言うこと聞いてくれる？」"
 
 translate Japanese ch0_main_9985ba2f:
-    s "「わたしを心配させないでよ……」"
+    s "「わたしを心配させないでよ…」"
 
 translate Japanese ch0_main_62185db9:
-    mc "「分かった、分かった……」"
+    mc "「分かった、分かった…」"
 
 translate Japanese ch0_main_a240cafd:
     mc "「そんなに言うなら、いくつか部活を見てみるよ」"
@@ -143,19 +143,19 @@ translate Japanese ch0_main_7a46ab7f:
     "荷物をまとめた後、自分の中のやる気を探して壁をぼんやりと眺める。"
 
 translate Japanese ch0_main_64e92eab:
-    mc "「部活か……」"
+    mc "「部活か…」"
 
 translate Japanese ch0_main_71ad5d38:
     "サヨリは俺にいくつか見学して欲しいようだった。"
 
 translate Japanese ch0_main_aded22ad:
-    "とりあえずアニメ研究会から始めてみるしかないかな……"
+    "とりあえずアニメ研究会から始めてみるしかないかな…"
 
 translate Japanese ch0_main_fb713b14:
     s "「やっほー」"
 
 translate Japanese ch0_main_e47a0e88:
-    mc "「サヨリ……？」"
+    mc "「サヨリ…？」"
 
 translate Japanese ch0_main_6020da7f:
     "俺がぼんやりしている間にサヨリが教室に入って来たようだ。"
@@ -167,16 +167,16 @@ translate Japanese ch0_main_dedd63de:
     s 1a "「教室から出るところで声をかけようと思ってたけど、座ってぼーっとしていたから入ってきちゃった」"
 
 translate Japanese ch0_main_7615d8d6:
-    s "「正直たまにわたしよりもだらけてるよね……感心！」"
+    s "「正直たまにわたしよりもだらけてるよね…感心！」"
 
 translate Japanese ch0_main_6d733c80:
     mc "「部活に遅れそうなら待たなくてもいいよ」"
 
 translate Japanese ch0_main_9d8de398:
-    s 1y "「ちょっとした励ましが必要かなと思って、それに……」"
+    s 1y "「ちょっとした励ましが必要かなと思って、それに…」"
 
 translate Japanese ch0_main_200708b1:
-    mc "「それに……？」"
+    mc "「それに…？」"
 
 translate Japanese ch0_main_e745591c:
     s 1a "「わたしの部に来てもいいんだよ！」"
@@ -188,7 +188,7 @@ translate Japanese ch0_main_863b15e1:
     s 4r "「うん？」"
 
 translate Japanese ch0_main_3b777b8d:
-    mc "「……俺がそこに行くはずがないだろ」"
+    mc "「…俺がそこに行くはずがないだろ」"
 
 translate Japanese ch0_main_f92ba1b1:
     s 5d "「えええええええ！？ ケチ！」"
@@ -221,25 +221,25 @@ translate Japanese ch0_main_d39dce85:
     s 5b "「ええと……」"
 
 translate Japanese ch0_main_d72b517e:
-    s "「だって昨日みんなに新入部員連れてくるって言っちゃったし……」"
+    s "「だって昨日みんなに新入部員連れてくるって言っちゃったし…」"
 
 translate Japanese ch0_main_dc74dc48:
-    s "「それにナツキちゃんがカップケーキとか色々作ってきてるし……」"
+    s "「それにナツキちゃんがカップケーキとか色々作ってきてるし…」"
 
 translate Japanese ch0_main_cc3db8cd:
-    s "「えへへ……」"
+    s "「えへへ…」"
 
 translate Japanese ch0_main_e05adf1b:
     mc "「守れない約束なんてするなよ！」"
 
 translate Japanese ch0_main_cc62f8f9:
-    "サヨリが本当にアホの子なのかそれとも全部計算づくなのかは分からない。"
+    "サヨリが本当にアホな子なのかそれとも全部計算づくなのかは分からない。"
 
 translate Japanese ch0_main_d02635ba:
     "俺は大きくため息をついた。"
 
 translate Japanese ch0_main_09810a2c:
-    mc "「分かった……カップケーキに免じて寄るとするよ」"
+    mc "「分かった…カップケーキに免じて寄るとするよ」"
 
 translate Japanese ch0_main_56df6485:
     s 4r "「やった！ よし行こう～！」"
@@ -249,7 +249,7 @@ translate Japanese ch0_main_d005514b:
 
 translate Japanese ch0_main_cb634d94:
     "やれやれと思いながらサヨリの後について校舎をわたり階段を上っていく。"
-    "着いたのは、学校の中でも普段は３年生の授業や活動で使用され、自分は滅多に行くことがない場所だった。"
+    "着いたのは、学校の中でも普段は3年生の授業や活動で使用され、自分は滅多に行くことがない場所だった。"
 
 translate Japanese ch0_main_01a899d9:
     "サヨリは元気いっぱいに勢いよく教室のドアを開けた。"
@@ -282,13 +282,13 @@ translate Japanese ch0_main_d4348f02:
     m "「ようこそ！ 文芸部へ！」"
 
 translate Japanese ch0_main_2b35b6fe:
-    mc "「……」"
+    mc "「…」"
 
 translate Japanese ch0_main_00244a6d:
     "つい言葉を失ってしまった。"
 
 translate Japanese ch0_main_7903e6e7:
-    "この部活は……"
+    "この部活は…"
 
 translate Japanese ch0_main_4c13a14b:
     "{i}最高にかわいい子だらけじゃないか！{/i}"
@@ -303,7 +303,7 @@ translate Japanese ch0_main_6cbd4647:
     mc "「ご、ごめん」"
 
 translate Japanese ch0_main_98d9573e:
-    y "「ナツキちゃん……」"
+    y "「ナツキちゃん…」"
 
 translate Japanese ch0_main_bc64dbb8:
     n 5s "「ふん」"
@@ -312,7 +312,7 @@ translate Japanese ch0_main_3b270b09:
     "なんだか当たりの強いこの女の子は初めて見る子だ。ナツキというらしい。"
 
 translate Japanese ch0_main_5e0f976f:
-    "小さい容姿からして１年生だろうか。"
+    "小さい容姿からして1年生だろうか。"
 
 translate Japanese ch0_main_6627708c:
     "サヨリの話だとカップケーキを作ったのは彼女のようだ。"
@@ -330,7 +330,7 @@ translate Japanese ch0_main_77201e52:
     s "「それでこっちがユリちゃん、この部で一番の秀才なの！」"
 
 translate Japanese ch0_main_084001f0:
-    y 4b "「そ、そんな風に言わないでください……」"
+    y 4b "「そ、そんな風に言わないでください…」"
 
 translate Japanese ch0_main_4ccfaeda:
     "他の子に比べやや大人っぽく、また臆病そうなこの子はユリというらしい。サヨリやナツキのようなタイプと一緒にやっていくのに苦労していそうだ。"
@@ -354,13 +354,13 @@ translate Japanese ch0_main_7c7cb783:
     "俺たちは去年同じクラスだったから、お互いのことは知っている。とはいえ滅多に話さないが。"
 
 translate Japanese ch0_main_f583350f:
-    "モニカは容姿端麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
+    "モニカは、容姿端麗で文武両道。おそらくクラスで一番人気だった女の子だ。"
 
 translate Japanese ch0_main_e3e8565d:
     "要するに、高嶺の花だ。"
 
 translate Japanese ch0_main_f83977c1:
-    "だから彼女に微笑まれて、なんというか……"
+    "だから彼女に微笑まれて、なんというか…"
 
 translate Japanese ch0_main_dffc1ef1:
     mc "「こ、こっちこそ」"
@@ -456,13 +456,13 @@ translate Japanese ch0_main_4c34725b:
     mc "「ありがとう、ナツキ」"
 
 translate Japanese ch0_main_feae3ba6:
-    n 5h "「な、なに言ってるの？ 別に……！」"
+    n 5h "「な、なに言ってるの？ 別に…！」"
 
 translate Japanese ch0_main_8aa3724b:
-    "{i}（どこかで聞いたことあるような……？）{/i}"
+    "{i}（どこかで聞いたことあるような…？）{/i}"
 
 translate Japanese ch0_main_0b0590da:
-    n 5s "「……別にあんたのために作ったわけじゃないし」"
+    n 5s "「…別にあんたのために作ったわけじゃないし」"
 
 translate Japanese ch0_main_cbdb9568:
     mc "「え？ 実際そうなんじゃないのか？ サヨリもそう言ってたし――」"
@@ -471,10 +471,10 @@ translate Japanese ch0_main_3c076ae6:
     n 12c "「まあ、そうね！」"
 
 translate Japanese ch0_main_3963d9b0:
-    n "「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ……」"
+    n "「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ…」"
 
 translate Japanese ch0_main_62185db9_1:
-    mc "「分かった、分かった……」"
+    mc "「分かった、分かった…」"
 
 translate Japanese ch0_main_e11ca288:
     "ナツキの変な論理には降参して、会話を終わらせる。"
@@ -495,19 +495,19 @@ translate Japanese ch0_main_efc4ed34:
     y "「それに、温かいお茶があると読書も捗るでしょう？」"
 
 translate Japanese ch0_main_a3a3b943:
-    mc "「ああ……そ、そうだな……」"
+    mc "「ああ…そ、そうだな…」"
 
 translate Japanese ch0_main_de8b3252:
     m "「えへへ、そんなに怯えなくてもいいわ。ユリはただあなたの関心を引こうとしてるだけよ」"
 
 translate Japanese ch0_main_d1e9e5c9:
-    y 3n "「え、そ、そんなこと……」"
+    y 3n "「え、そ、そんなこと…」"
 
 translate Japanese ch0_main_6f8e7fc9:
-    "からかわれて、ユリはそっぽを向く。"
+    "からかわれて、ユリはそっぽを向いた。"
 
 translate Japanese ch0_main_0403ff06:
-    y 4b "「私はただ、その……」"
+    y 4b "「私はただ、その…」"
 
 translate Japanese ch0_main_03220b59:
     mc "「分かってるよ」"
@@ -516,7 +516,7 @@ translate Japanese ch0_main_e29518b6:
     mc "「まあ、お茶を飲みながらの読書は馴染みのない習慣だが、お茶は普通に好きだから」"
 
 translate Japanese ch0_main_fb4dad3b:
-    y 2u "「良かった……」"
+    y 2u "「良かった…」"
 
 translate Japanese ch0_main_c171e465:
     "ユリはほっとしたようにかすかに微笑んでいる。"
@@ -528,16 +528,16 @@ translate Japanese ch0_main_6825feaf:
     m 1 "「そういえば、あなたはどうして文芸部に入ろうと思ったの？」"
 
 translate Japanese ch0_main_6b0ed824:
-    mc "「えぇと……」"
+    mc "「えぇと…」"
 
 translate Japanese ch0_main_dc25391e:
     "俺はこの質問が来るのを恐れていた。"
 
 translate Japanese ch0_main_e8c5b463:
-    "実はサヨリに引きずられて来た、だなんて言うべきではない気がする。"
+    "実はサヨリに引きずられて来た、と言うべきではない気がする。"
 
 translate Japanese ch0_main_7fc001c4:
-    mc "「まあ、まだ部活に入ってないし、それにサヨリがこの部活ですごく楽しそうにしてるみたいだから……」"
+    mc "「まあ…まだ部活に入ってないし、それにサヨリがこの部活ですごく楽しそうにしてるみたいだから…」"
 
 translate Japanese ch0_main_fd3149d6:
     m 1j "「それでいいのよ！ 恥ずかしがらないで！」"
@@ -561,10 +561,10 @@ translate Japanese ch0_main_e482a1a0:
     mc "「去年はディベート部の部長じゃなかったっけ？」"
 
 translate Japanese ch0_main_ac39b15e:
-    m 5 "「あはは、まあ、そうだったんだけど……」"
+    m 5 "「あはは、まあ、そうだったんだけど…」"
 
 translate Japanese ch0_main_762f40f1:
-    m "「正直に言うと、大きな部の部内政治にもううんざりだったの」"
+    m "「正直言うと、大きな部の部内政治にうんざりだったの」"
 
 translate Japanese ch0_main_0ee5c447:
     m "「予算か宣伝かイベントのことしか話していない気がしてね」"
@@ -582,7 +582,7 @@ translate Japanese ch0_main_da545528:
     "ユリも同意して頷いている。"
 
 translate Japanese ch0_main_d8791778:
-    mc "「それにしても部員が少ないことに驚いたよ」"
+    mc "「それにしても部員が少ないことに驚いた」"
 
 translate Japanese ch0_main_d49bb743:
     mc "「新しい部活を始めるのは大変だったろうな」"
@@ -591,7 +591,7 @@ translate Japanese ch0_main_be7ec00e:
     m 3b "「そうかもしれないわね」"
 
 translate Japanese ch0_main_75b36957:
-    m "「新しいことを始めることに興味がある人が多いわけではないから……」"
+    m "「新しいことを始めることに興味がある人が多いわけではないから…」"
 
 translate Japanese ch0_main_e8c57f75:
     m "「文学みたいに興味を惹かれないものだと、特にね」"
@@ -621,7 +621,7 @@ translate Japanese ch0_main_b250c385:
     "みんながみんな熱意を持って同意する。"
 
 translate Japanese ch0_main_fffaaae6:
-    "こんなにも違う女の子たちが、みんな一つの目標を目指しているとは……"
+    "こんなにも違う女の子たちが、みんな一つの目標を目指しているとは…"
 
 translate Japanese ch0_main_e4ea91ed:
     "この３人を集めるのにモニカは相当苦労しただろう。"
@@ -636,13 +636,13 @@ translate Japanese ch0_main_63db5da7:
     y "「あの、[player]さんは普段どんな本を読まれるんですか？」"
 
 translate Japanese ch0_main_cf79ccdb:
-    mc "「ええ、ああ……」"
+    mc "「ええ、ああ…」"
 
 translate Japanese ch0_main_5fcc5273:
     "ここ数年ほとんど本を読んでいないので、なんと答えれば良いのか思いつかない。"
 
 translate Japanese ch0_main_1947382b:
-    mc "「……マンガ……とか」"
+    mc "「…マンガ…とか」"
 
 translate Japanese ch0_main_459c1918:
     "冗談交じりに呟く。"
@@ -654,13 +654,13 @@ translate Japanese ch0_main_9101cacb:
     "何か言いたげだが、黙っている。"
 
 translate Japanese ch0_main_8c105e2a:
-    y 3u "「あ、あまり読書家ではないのですね……」"
+    y 3u "「あ、あまり読書家ではないのですね…」"
 
 translate Japanese ch0_main_68d50b2d:
-    mc "「……今後の変化の余地はある……」"
+    mc "「…今後の変化の余地はある…」"
 
 translate Japanese ch0_main_ccf38a3c:
-    "俺は何を言っているんだろう。"
+    "俺は何を言ってるんだ。"
 
 translate Japanese ch0_main_3b4ce5c9:
     "ユリが悲しそうに笑ってたから考えなしに言ってしまった。"
@@ -669,10 +669,10 @@ translate Japanese ch0_main_ca4f61b8:
     mc "「それより、ユリはどんな本を読むんだ？」"
 
 translate Japanese ch0_main_a89289a8:
-    y 1l "「ええとですね……」"
+    y 1l "「ええとですね…」"
 
 translate Japanese ch0_main_de0357e1:
-    "ユリは指先でティーカップのふちをなぞる。"
+    "ユリは指先でティーカップの縁をなぞる。"
 
 translate Japanese ch0_main_17dec8ac:
     y 1a "「私は重厚で複雑な世界観を持ったファンタジーが好きなんです」"
@@ -699,13 +699,13 @@ translate Japanese ch0_main_b1a75737:
     y 2a "「作家が読者の想像力不足を逆手に取って驚かせにくるなんて凄いですよね？」"
 
 translate Japanese ch0_main_98f09acd:
-    y "「でも最近よく読んでるのはホラーなんです……」"
+    y "「でも最近よく読んでるのはホラーなんです…」"
 
 translate Japanese ch0_main_b274f53a:
     mc "「ああ、ホラーなら俺も一度読んだことがあるな」"
 
 translate Japanese ch0_main_e7c359a6:
-    "俺は低レベルな自分が乗っかれる話題を必死になってつかむ。"
+    "俺は低レベルな自分が乗っかれる話題を必死になって掴む。"
 
 translate Japanese ch0_main_6b8ceb25:
     "こんな調子じゃ、ユリは石とでも会話しておいたほうがマシだ。"
@@ -714,7 +714,7 @@ translate Japanese ch0_main_dac3be05:
     m "「本当に？ ユリがホラー好きだなんて意外だわ」"
 
 translate Japanese ch0_main_cb2111ac:
-    m "「こんな穏やかな人がホラーを読むとはねえ……」"
+    m "「こんな穏やかな人がホラーを読むとはねえ…」"
 
 translate Japanese ch0_main_84a13e28:
     y 1a "「そうかもしれませんね」"
@@ -726,13 +726,13 @@ translate Japanese ch0_main_fa55ff2a:
     y "「シュールレアリスムホラーなんて、少しの間だけかもしれませんが、世界の見え方が変わってしまうことだってありますからね」"
 
 translate Japanese ch0_main_b8c3c144:
-    n "「うう……わたしホラーは苦手……」"
+    n "「うう…わたしホラーは苦手…」"
 
 translate Japanese ch0_main_1c139e48:
     y 1f "「あら、どうしてですか？」"
 
 translate Japanese ch0_main_ab1562c5:
-    n 5c "「だって、わたし……」"
+    n 5c "「だって、わたし…」"
 
 translate Japanese ch0_main_7aac067b:
     "ナツキの目が一瞬こちらに向けられた。"
@@ -765,7 +765,7 @@ translate Japanese ch0_main_7ae96939:
     m 1j "「はいはい～」"
 
 translate Japanese ch0_main_fa944ba0:
-    s "「えへへ、ナツキちゃんのカップケーキにナツキちゃんの詩……」"
+    s "「えへへ、ナツキちゃんのカップケーキにナツキちゃんの詩…」"
 
 translate Japanese ch0_main_da28403a:
     s "「ナツキちゃんはやることまでぜんぶかわいいなあ～」"
@@ -780,7 +780,7 @@ translate Japanese ch0_main_af8472c2:
     mc "「ナツキって詩を書くのか？」"
 
 translate Japanese ch0_main_30d37f9a:
-    n 1c "「え？ まあ、たまにね」"
+    n 1c "「え？ まぁ…たまにだけど」"
 
 translate Japanese ch0_main_842dce39:
     n "「なんか問題ある？」"
@@ -798,10 +798,10 @@ translate Japanese ch0_main_edb6ed7f:
     "ナツキは目を逸らした。"
 
 translate Japanese ch0_main_9d7b9bad:
-    n "「そんな……気に入られるようなものでもないし……」"
+    n "「そんな…気に入られるようなものでもないし…」"
 
 translate Japanese ch0_main_35a5aeea:
-    mc "「ああ……まだあまり自信はない感じか」"
+    mc "「ああ…まだあまり自信はない感じか」"
 
 translate Japanese ch0_main_7e67e889:
     y "「ナツキちゃんの感じていること、分かります」"
@@ -822,13 +822,13 @@ translate Japanese ch0_main_2bc6a16e:
     m "「きっとユリが自分の作品を見せれば、いい見本になって、ナツキが自分のを見せる時に気が楽になるんじゃないかしら？」"
 
 translate Japanese ch0_main_5a6499dc:
-    y 3o "「……」"
+    y 3o "「…」"
 
 translate Japanese ch0_main_19552c38:
     mc "「どうやらユリもナツキと同じみたいだな」"
 
 translate Japanese ch0_main_ec936eb4:
-    s "「あうー……みんなの詩、読みたかったなあ……」"
+    s "「あうー…みんなの詩、読みたかったなあー…」"
 
 translate Japanese ch0_main_701e440d:
     "みんな少しの間黙り込んだ。"
@@ -840,7 +840,7 @@ translate Japanese ch0_main_2ffc1dd9:
     m "「みんな、一つ考えがあるわ！」"
 
 translate Japanese ch0_main_95cd0d51:
-    ny "「……？」"
+    ny "「…？」"
 
 translate Japanese ch0_main_d080e0ca:
     "ナツキとユリはいぶかしげにモニカを見た。"
@@ -855,10 +855,10 @@ translate Japanese ch0_main_a106107a:
     m "「そうすれば、みんな平等でしょ？」"
 
 translate Japanese ch0_main_963b3971:
-    n 5q "「う、うーん……」"
+    n 5q "「う、うーん…」"
 
 translate Japanese ch0_main_71a86863:
-    y "「……」"
+    y "「…」"
 
 translate Japanese ch0_main_6766811d:
     s "「いえーーい！ やってみようよ！」"
@@ -873,7 +873,7 @@ translate Japanese ch0_main_871cb3a3:
     "モニカはまた暖かく微笑んだ。"
 
 translate Japanese ch0_main_cf25d371:
-    mc "「ちょっと待ってくれ……一つ問題がある」"
+    mc "「ちょっと待ってくれ…一つ問題がある」"
 
 translate Japanese ch0_main_bee826cb:
     m 1d "「え？ なにかしら？」"
@@ -888,43 +888,43 @@ translate Japanese ch0_main_b0a068b5:
     mc "「サヨリに説得されて寄っただけで、まだ何も決めてない」"
 
 translate Japanese ch0_main_4de02539:
-    mc "「まだ見学したい部活もあるし、あと……えっと……」"
+    mc "「まだ見学したい部活もあるし、あと…えっと…」"
 
 translate Japanese ch0_main_1e4b58a1:
     "話そうとしていたことが飛んでしまった。"
 
 translate Japanese ch0_main_3b7e2967:
-    "４人の女の子が失望の眼差しでこっちを見ている。"
+    "4人の女の子が失望の眼差しでこっちを見ている。"
 
 translate Japanese ch0_main_8911e105:
-    m 1p "「で、でも……」"
+    m 1p "「で、でも…」"
 
 translate Japanese ch0_main_a403322e:
-    y 2v "「ごめんなさい、てっきり……」"
+    y 2v "「ごめんなさい、てっきり…」"
 
 translate Japanese ch0_main_bc64dbb8_1:
     n 5s "「ふん」"
 
 translate Japanese ch0_main_48b8805c:
-    s 1k "「[player]……」"
+    s 1k "「[player]…」"
 
 translate Japanese ch0_main_a99ed1fe:
-    mc "「み、みんな……」"
+    mc "「み、みんな…」"
 
 translate Japanese ch0_main_966cc463:
-    "俺は……俺はこの子たちには無力だ。"
+    "俺は…俺はこの子たちには無力だ。"
 
 translate Japanese ch0_main_d4da3079:
     "こんな状況で俺が冷静な判断を下せると思うか？"
 
 translate Japanese ch0_main_1f374c38:
-    "要するに、この子たちと毎日を過ごすために詩を書くことが必要だと言うなら……"
+    "要するに、この子たちと毎日を過ごすために詩を書くことが必要だと言うなら…"
 
 translate Japanese ch0_main_36037676:
-    mc "「……そうだな」"
+    mc "「…そうだな」"
 
 translate Japanese ch0_main_ee38c6e2:
-    mc "「よし、決めたよ」"
+    mc "「よし、決めた」"
 
 translate Japanese ch0_main_bfead9f9:
     mc "「俺は文芸部に入部する！」"
@@ -942,7 +942,7 @@ translate Japanese ch0_main_4fb65cd5:
     mc "「お、おい――」"
 
 translate Japanese ch0_main_792dfef8:
-    y 1m "「本当にびっくりしたんですよ……？」"
+    y 1m "「本当にびっくりしたんですよ…？」"
 
 translate Japanese ch0_main_e9faf06e:
     n 5q "「本当にカップケーキのためだけに来てたら、超怒ってたんだからね」"
@@ -954,7 +954,7 @@ translate Japanese ch0_main_4fb57992:
     m "「ようこそ、文芸部へ！」"
 
 translate Japanese ch0_main_fc5c3668:
-    mc "「あー、うん……ありがとう」"
+    mc "「あー、うん…ありがとう」"
 
 translate Japanese ch0_main_e719ebca:
     m 3b "「よし、みんな！」"
@@ -1005,7 +1005,7 @@ translate Japanese ch0_main_55e5370a:
     "という訳で、俺とサヨリは部室を出て、一緒に帰ることにした。"
 
 translate Japanese ch0_main_7df62755:
-    "道中、俺は何度も４人の女の子のことを思い浮かべる。"
+    "道中、俺は何度も4人の女の子のことを思い浮かべる。"
 
 translate Japanese ch0_main_f67abbfb:
     "サヨリ、"
@@ -1023,7 +1023,7 @@ translate Japanese ch0_main_3ec099e1:
     "俺は本当に放課後を文芸部で過ごして幸せになれるのだろうか？"
 
 translate Japanese ch0_main_2b5dfb83:
-    "ひょっとすると誰か一人と親密な関係になれるチャンスが訪れるかもしれない……"
+    "ひょっとすると誰か一人と親密な関係になれるチャンスが訪れるかもしれない…"
 
 translate Japanese ch0_main_16cd82b1:
     "よし！"
@@ -1032,37 +1032,37 @@ translate Japanese ch0_main_b0188844:
     "この状況をうまく利用して、必ずや幸運を手にしてみせる。"
 
 translate Japanese ch0_main_dff2799d:
-    "その一歩は今夜俺が詩を書くことから始まるのだろう……"
+    "その一歩は今夜俺が詩を書くことから始まるのだろう…"
 
 translate Japanese ch0_kill_e1554201:
-    s "「……」"
+    s "「…」"
 
 translate Japanese ch0_kill_e1554201_1:
-    s "「……」"
+    s "「…」"
 
 translate Japanese ch0_kill_2a5a342b:
     s "「な、なに？」"
 
 translate Japanese ch0_kill_ecefd2ea:
-    s 1g "「……」"
+    s 1g "「…」"
 
 translate Japanese ch0_kill_c846785b:
-    s "「これは……」"
+    s "「これは…」"
 
 translate Japanese ch0_kill_266d53d4:
-    s "「これは何なの……？」"
+    s "「これは何なの…？」"
 
 translate Japanese ch0_kill_ff8bb5a8:
-    s "「そんな……」"
+    s "「そんな…」"
 
 translate Japanese ch0_kill_ee35af3b:
-    s 1u "「だめ……」"
+    s 1u "「だめ…」"
 
 translate Japanese ch0_kill_df4d9288:
-    s "「これだけじゃない……」"
+    s "「これだけじゃない…」"
 
 translate Japanese ch0_kill_d9000ecb:
-    s "「これだけのはずがない……」"
+    s "「これだけのはずがない…」"
 
 translate Japanese ch0_kill_5ef55015:
     s 4w "「これは何？」"
@@ -1099,7 +1099,7 @@ translate Japanese strings:
     new "でも俺はやれやれと横断歩道の前でサヨリを待った。"
 
     old "{#ch0_main_cf958be9}"
-    new "「はあ……はぁ……」"
+    new "「はあ…はぁ…」"
 
     old "{#ch0_main_d5b6fac2}"
     new "「また寝坊しちゃった！」"
@@ -1129,7 +1129,7 @@ translate Japanese strings:
     new "「いじわるしたくても、できないんだね～」"
 
     old "{#ch0_main_ff65683d}"
-    new "「何とでも言っとけ、サヨリ」"
+    new "「何とでも言っとけ」"
 
     old "{#ch0_main_4fe8273d}"
     new "「えへへ～」"
@@ -1141,7 +1141,7 @@ translate Japanese strings:
     new "学校に近づくと、通学路には他の生徒の姿が徐々に増えていく。"
 
     old "{#ch0_main_3142c5a4}"
-    new "「ところでさ、[player]……」"
+    new "「ところでさ、[player]…」"
 
     old "{#ch0_main_02182e1b}"
     new "「まだ入る部活は決めてないの？」"
@@ -1186,10 +1186,10 @@ translate Japanese strings:
     new "「ちゃんと言うこと聞いてくれる？」"
 
     old "{#ch0_main_9985ba2f}"
-    new "「わたしを心配させないでよ……」"
+    new "「わたしを心配させないでよ…」"
 
     old "{#ch0_main_62185db9}"
-    new "「分かった、分かった……」"
+    new "「分かった、分かった…」"
 
     old "{#ch0_main_a240cafd}"
     new "「そんなに言うなら、いくつか部活を見てみるよ」"
@@ -1222,19 +1222,19 @@ translate Japanese strings:
     new "荷物をまとめた後、自分の中のやる気を探して壁をぼんやりと眺める。"
 
     old "{#ch0_main_64e92eab}"
-    new "「部活か……」"
+    new "「部活か…」"
 
     old "{#ch0_main_71ad5d38}"
     new "サヨリは俺にいくつか見学して欲しいようだった。"
 
     old "{#ch0_main_aded22ad}"
-    new "とりあえずアニメ研究会から始めてみるしかないかな……"
+    new "とりあえずアニメ研究会から行ってみるしかないかな…"
 
     old "{#ch0_main_fb713b14}"
     new "「やっほー」"
 
     old "{#ch0_main_e47a0e88}"
-    new "「サヨリ……？」"
+    new "「サヨリ…？」"
 
     old "{#ch0_main_6020da7f}"
     new "俺がぼんやりしている間にサヨリが教室に入って来たようだ。"
@@ -1246,28 +1246,28 @@ translate Japanese strings:
     new "「教室から出るところで声をかけようと思ってたけど、座ってぼーっとしていたから入ってきちゃった」"
 
     old "{#ch0_main_7615d8d6}"
-    new "「正直たまにわたしよりもだらけてるよね……感心！」"
+    new "「正直たまにわたしよりもだらけてるよね…感心！」"
 
     old "{#ch0_main_6d733c80}"
     new "「部活に遅れそうなら待たなくてもいいよ」"
 
     old "{#ch0_main_9d8de398}"
-    new "「ちょっとした励ましが必要かなと思って、それに……」"
+    new "「ちょっとした励ましが必要かなと思って、それに…」"
 
     old "{#ch0_main_200708b1}"
-    new "「それに……？」"
+    new "「それに…？」"
 
     old "{#ch0_main_e745591c}"
     new "「わたしの部に来てもいいんだよ！」"
 
     old "{#ch0_main_e87e0575}"
-    new "「お前なあ」"
+    new "「お前なあ…」"
 
     old "{#ch0_main_863b15e1}"
     new "「うん？」"
 
     old "{#ch0_main_3b777b8d}"
-    new "「……俺がそこに行くはずがないだろ」"
+    new "「…俺がそこに行くはずがないだろ」"
 
     old "{#ch0_main_f92ba1b1}"
     new "「えええええええ！？ ケチ！」"
@@ -1297,16 +1297,16 @@ translate Japanese strings:
     new "「どうしてそこまで必死なんだよ？」"
 
     old "{#ch0_main_d39dce85}"
-    new "「ええと……」"
+    new "「ええと…」"
 
     old "{#ch0_main_d72b517e}"
-    new "「だって昨日みんなに新入部員連れてくるって言っちゃったし……」"
+    new "「だって昨日みんなに新入部員連れてくるって言っちゃったし…」"
 
     old "{#ch0_main_dc74dc48}"
-    new "「それにナツキちゃんがカップケーキとか色々作ってきてるし……」"
+    new "「それにナツキちゃんがカップケーキとか色々作ってきてるし…」"
 
     old "{#ch0_main_cc3db8cd}"
-    new "「えへへ……」"
+    new "「えへへ…」"
 
     old "{#ch0_main_e05adf1b}"
     new "「守れない約束なんてするなよ！」"
@@ -1318,7 +1318,7 @@ translate Japanese strings:
     new "俺は大きくため息をついた。"
 
     old "{#ch0_main_09810a2c}"
-    new "「分かった……カップケーキに免じて寄るとするよ」"
+    new "「分かった…カップケーキに免じて寄るとするよ」"
 
     old "{#ch0_main_56df6485}"
     new "「やった！ よし行こう～！」"
@@ -1360,7 +1360,7 @@ translate Japanese strings:
     new "「ようこそ！ 文芸部へ！」"
 
     old "{#ch0_main_2b35b6fe}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_main_00244a6d}"
     new "つい言葉を失ってしまった。"
@@ -1381,7 +1381,7 @@ translate Japanese strings:
     new "「ご、ごめん」"
 
     old "{#ch0_main_98d9573e}"
-    new "「ナツキちゃん……」"
+    new "「ナツキちゃん…」"
 
     old "{#ch0_main_bc64dbb8}"
     new "「ふん」"
@@ -1390,7 +1390,7 @@ translate Japanese strings:
     new "なんだか当たりの強いこの女の子は初めて見る子だ。ナツキというらしい。"
 
     old "{#ch0_main_5e0f976f}"
-    new "小さい容姿からして１年生だろうか。"
+    new "小さい容姿からして1年生だろうか。"
 
     old "{#ch0_main_6627708c}"
     new "サヨリの話だとカップケーキを作ったのは彼女のようだ。"
@@ -1408,7 +1408,7 @@ translate Japanese strings:
     new "「それでこっちがユリちゃん、この部で一番の秀才なの！」"
 
     old "{#ch0_main_084001f0}"
-    new "「そ、そんな風に言わないでください……」"
+    new "「そ、そんな風に言わないでください…」"
 
     old "{#ch0_main_4ccfaeda}"
     new "他の子に比べやや大人っぽく、また臆病そうなこの子はユリというらしい。サヨリやナツキのようなタイプと一緒にやっていくのに苦労していそうだ。"
@@ -1432,13 +1432,13 @@ translate Japanese strings:
     new "俺たちは去年同じクラスだったから、お互いのことは知っている。とはいえ滅多に話さないが。"
 
     old "{#ch0_main_f583350f}"
-    new "モニカは容姿端麗・文武両道。おそらくクラスで一番人気だった女の子だ。"
+    new "モニカは、容姿端麗で文武両道。おそらくクラスで一番人気だった女の子だ。"
 
     old "{#ch0_main_e3e8565d}"
     new "要するに、高嶺の花だ。"
 
     old "{#ch0_main_f83977c1}"
-    new "だから彼女に微笑まれて、なんというか……"
+    new "だから彼女に微笑まれて、なんというか…"
 
     old "{#ch0_main_dffc1ef1}"
     new "「こ、こっちこそ」"
@@ -1534,10 +1534,10 @@ translate Japanese strings:
     new "「ありがとう、ナツキ」"
 
     old "{#ch0_main_feae3ba6}"
-    new "「な、なに言ってるの？ 別に……！」"
+    new "「な、なに言ってるの？ 別に…！」"
 
     old "{#ch0_main_8aa3724b}"
-    new "{i}（どこかで聞いたことあるような……？）{/i}"
+    new "{i}（どこかで聞いたことあるような…？）{/i}"
 
     old "{#ch0_main_0b0590da}"
     new "「……別にあんたのために作ったわけじゃないし」"
@@ -1549,10 +1549,10 @@ translate Japanese strings:
     new "「まあ、そうね！」"
 
     old "{#ch0_main_3963d9b0}"
-    new "「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ……」"
+    new "「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ…」"
 
     old "{#ch0_main_62185db9_1}"
-    new "「分かった、分かった……」"
+    new "「分かった、分かった…」"
 
     old "{#ch0_main_e11ca288}"
     new "ナツキの変な論理には降参して、会話を終わらせる。"
@@ -1573,19 +1573,19 @@ translate Japanese strings:
     new "「それに、温かいお茶があると読書も捗るでしょう？」"
 
     old "{#ch0_main_a3a3b943}"
-    new "「ああ……そ、そうだな……」"
+    new "「ああ…そ、そうだな…」"
 
     old "{#ch0_main_de8b3252}"
     new "「えへへ、そんなに怯えなくてもいいわ。ユリはただあなたの関心を引こうとしてるだけよ」"
 
     old "{#ch0_main_d1e9e5c9}"
-    new "「え、そ、そんなこと……」"
+    new "「え、そ、そんなこと…」"
 
     old "{#ch0_main_6f8e7fc9}"
     new "からかわれて、ユリはそっぽを向く。"
 
     old "{#ch0_main_0403ff06}"
-    new "「私はただ、その……」"
+    new "「私はただ、その…」"
 
     old "{#ch0_main_03220b59}"
     new "「分かってるよ」"
@@ -1594,7 +1594,7 @@ translate Japanese strings:
     new "「まあ、お茶を飲みながらの読書は馴染みのない習慣だが、お茶は普通に好きだから」"
 
     old "{#ch0_main_fb4dad3b}"
-    new "「良かった……」"
+    new "「良かった…」"
 
     old "{#ch0_main_c171e465}"
     new "ユリはほっとしたようにかすかに微笑んでいる。"
@@ -1606,7 +1606,7 @@ translate Japanese strings:
     new "「そういえば、あなたはどうして文芸部に入ろうと思ったの？」"
 
     old "{#ch0_main_6b0ed824}"
-    new "「えぇと……」"
+    new "「えぇと…」"
 
     old "{#ch0_main_dc25391e}"
     new "俺はこの質問が来るのを恐れていた。"
@@ -1615,7 +1615,7 @@ translate Japanese strings:
     new "実はサヨリに引きずられて来た、だなんて言うべきではない気がする。"
 
     old "{#ch0_main_7fc001c4}"
-    new "「まあ、まだ部活に入ってないし、それにサヨリがこの部活ですごく楽しそうにしてるみたいだから……」"
+    new "「まあ、まだ部活に入ってないし、それにサヨリがこの部活ですごく楽しそうにしてるみたいだから…」"
 
     old "{#ch0_main_fd3149d6}"
     new "「それでいいのよ！ 恥ずかしがらないで！」"
@@ -1639,10 +1639,10 @@ translate Japanese strings:
     new "「去年はディベート部の部長じゃなかったっけ？」"
 
     old "{#ch0_main_ac39b15e}"
-    new "「あはは、まあ、そうだったんだけど……」"
+    new "「あはは、まあ、そうだったんだけど…」"
 
     old "{#ch0_main_762f40f1}"
-    new "「正直に言うと、大きな部の部内政治にもううんざりだったの」"
+    new "「正直言うと、大きな部の部内政治にうんざりだったの」"
 
     old "{#ch0_main_0ee5c447}"
     new "「予算か宣伝かイベントのことしか話していない気がしてね」"
@@ -1669,7 +1669,7 @@ translate Japanese strings:
     new "「そうかもしれないわね」"
 
     old "{#ch0_main_75b36957}"
-    new "「新しいことを始めることに興味がある人が多いわけではないから……」"
+    new "「新しいことを始めることに興味がある人が多いわけではないから…」"
 
     old "{#ch0_main_e8c57f75}"
     new "「文学みたいに興味を惹かれないものだと、特にね」"
@@ -1699,10 +1699,10 @@ translate Japanese strings:
     new "みんながみんな熱意を持って同意する。"
 
     old "{#ch0_main_fffaaae6}"
-    new "こんなにも違う女の子たちが、みんな一つの目標を目指しているとは……"
+    new "こんなにも違う女の子たちが、みんな一つの目標を目指しているとは…"
 
     old "{#ch0_main_e4ea91ed}"
-    new "この３人を集めるのにモニカは相当苦労しただろう。"
+    new "この3人を集めるのにモニカは相当苦労しただろう。"
 
     old "{#ch0_main_568069f4}"
     new "だからこんなに新入部員を大いに歓迎しているのだろうか。"
@@ -1714,13 +1714,13 @@ translate Japanese strings:
     new "「あの、[player]さんは普段どんな本を読まれるんですか？」"
 
     old "{#ch0_main_cf79ccdb}"
-    new "「ええ、ああ……」"
+    new "「ええ、ああ…」"
 
     old "{#ch0_main_5fcc5273}"
     new "ここ数年ほとんど本を読んでいないので、なんと答えれば良いのか思いつかない。"
 
     old "{#ch0_main_1947382b}"
-    new "「……マンガ……とか」"
+    new "「…マンガ…とか」"
 
     old "{#ch0_main_459c1918}"
     new "冗談交じりに呟く。"
@@ -1732,13 +1732,13 @@ translate Japanese strings:
     new "何か言いたげだが、黙っている。"
 
     old "{#ch0_main_8c105e2a}"
-    new "「あ、あまり読書家ではないのですね……」"
+    new "「あ、あまり読書家ではないのですね…」"
 
     old "{#ch0_main_68d50b2d}"
-    new "「……今後の変化の余地はある……」"
+    new "「…今後の変化の余地はある…」"
 
     old "{#ch0_main_ccf38a3c}"
-    new "俺は何を言っているんだろう。"
+    new "俺は何を言っているんだ。"
 
     old "{#ch0_main_3b4ce5c9}"
     new "ユリが悲しそうに笑ってたから考えなしに言ってしまった。"
@@ -1747,10 +1747,10 @@ translate Japanese strings:
     new "「それより、ユリはどんな本を読むんだ？」"
 
     old "{#ch0_main_a89289a8}"
-    new "「ええとですね……」"
+    new "「ええとですね…」"
 
     old "{#ch0_main_de0357e1}"
-    new "ユリは指先でティーカップのふちをなぞる。"
+    new "ユリは指先でティーカップの縁をなぞる。"
 
     old "{#ch0_main_17dec8ac}"
     new "「私は重厚で複雑な世界観を持ったファンタジーが好きなんです」"
@@ -1777,7 +1777,7 @@ translate Japanese strings:
     new "「作家が読者の想像力不足を逆手に取って驚かせにくるなんて凄いですよね？」"
 
     old "{#ch0_main_98f09acd}"
-    new "「でも最近よく読んでるのはホラーなんです……」"
+    new "「でも最近よく読んでるのはホラーなんです…」"
 
     old "{#ch0_main_b274f53a}"
     new "「ああ、ホラーなら俺も一度読んだことがあるな」"
@@ -1792,7 +1792,7 @@ translate Japanese strings:
     new "「本当に？ ユリがホラー好きだなんて意外だわ」"
 
     old "{#ch0_main_cb2111ac}"
-    new "「こんな穏やかな人がホラーを読むとはねえ……」"
+    new "「こんな穏やかな人がホラーを読むとはねえ…」"
 
     old "{#ch0_main_84a13e28}"
     new "「そうかもしれませんね」"
@@ -1804,13 +1804,13 @@ translate Japanese strings:
     new "「シュールレアリスムホラーなんて、少しの間だけかもしれませんが、世界の見え方が変わってしまうことだってありますからね」"
 
     old "{#ch0_main_b8c3c144}"
-    new "「うう……わたしホラーは苦手……」"
+    new "「うう…わたしホラーは苦手…」"
 
     old "{#ch0_main_1c139e48}"
     new "「あら、どうしてですか？」"
 
     old "{#ch0_main_ab1562c5}"
-    new "「だって、わたし……」"
+    new "「だって、わたし…」"
 
     old "{#ch0_main_7aac067b}"
     new "ナツキの目が一瞬こちらに向けられた。"
@@ -1858,7 +1858,7 @@ translate Japanese strings:
     new "「ナツキって詩を書くのか？」"
 
     old "{#ch0_main_30d37f9a}"
-    new "「え？ まあ、たまにね」"
+    new "「え？ まぁ…たまにだけど」"
 
     old "{#ch0_main_842dce39}"
     new "「なんか問題ある？」"
@@ -1876,10 +1876,10 @@ translate Japanese strings:
     new "ナツキは目を逸らした。"
 
     old "{#ch0_main_9d7b9bad}"
-    new "「そんな……気に入られるようなものでもないし……」"
+    new "「そんな…気に入られるようなものでもないし…」"
 
     old "{#ch0_main_35a5aeea}"
-    new "「ああ……まだあまり自信はない感じか」"
+    new "「ああ…まだあまり自信はない感じか」"
 
     old "{#ch0_main_7e67e889}"
     new "「ナツキちゃんの感じていること、分かります」"
@@ -1900,13 +1900,13 @@ translate Japanese strings:
     new "「きっとユリが自分の作品を見せれば、いい見本になって、ナツキが自分のを見せる時に気が楽になるんじゃないかしら？」"
 
     old "{#ch0_main_5a6499dc}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_main_19552c38}"
     new "「どうやらユリもナツキと同じみたいだな」"
 
     old "{#ch0_main_ec936eb4}"
-    new "「あうー……みんなの詩、読みたかったなあ……」"
+    new "「あうー…みんなの詩、読みたかったなあー…」"
 
     old "{#ch0_main_701e440d}"
     new "みんな少しの間黙り込んだ。"
@@ -1918,7 +1918,7 @@ translate Japanese strings:
     new "「みんな、一つ考えがあるわ！」"
 
     old "{#ch0_main_95cd0d51}"
-    new "「……？」"
+    new "「…？」"
 
     old "{#ch0_main_d080e0ca}"
     new "ナツキとユリはいぶかしげにモニカを見た。"
@@ -1933,10 +1933,10 @@ translate Japanese strings:
     new "「そうすれば、みんな平等でしょ？」"
 
     old "{#ch0_main_963b3971}"
-    new "「う、うーん……」"
+    new "「う、うーん…」"
 
     old "{#ch0_main_71a86863}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_main_6766811d}"
     new "「いえーーい！ やってみようよ！」"
@@ -1951,7 +1951,7 @@ translate Japanese strings:
     new "モニカはまた暖かく微笑んだ。"
 
     old "{#ch0_main_cf25d371}"
-    new "「ちょっと待ってくれ……一つ問題がある」"
+    new "「ちょっと待ってくれ…一つ問題がある」"
 
     old "{#ch0_main_bee826cb}"
     new "「え？ なにかしら？」"
@@ -1966,43 +1966,43 @@ translate Japanese strings:
     new "「サヨリに説得されて寄っただけで、まだ何も決めてない」"
 
     old "{#ch0_main_4de02539}"
-    new "「まだ見学したい部活もあるし、あと……えっと……」"
+    new "「まだ見学したい部活もあるし、あと…えっと…」"
 
     old "{#ch0_main_1e4b58a1}"
     new "話そうとしていたことが飛んでしまった。"
 
     old "{#ch0_main_3b7e2967}"
-    new "４人の女の子が失望の眼差しでこっちを見ている。"
+    new "4人の女の子が失望の眼差しでこっちを見ている。"
 
     old "{#ch0_main_8911e105}"
-    new "「で、でも……」"
+    new "「で、でも…」"
 
     old "{#ch0_main_a403322e}"
-    new "「ごめんなさい、てっきり……」"
+    new "「ごめんなさい、てっきり…」"
 
     old "{#ch0_main_bc64dbb8_1}"
     new "「ふん」"
 
     old "{#ch0_main_48b8805c}"
-    new "「[player]……」"
+    new "「[player]…」"
 
     old "{#ch0_main_a99ed1fe}"
-    new "「み、みんな……」"
+    new "「み、みんな…」"
 
     old "{#ch0_main_966cc463}"
-    new "俺は……俺はこの子たちには無力だ。"
+    new "俺は…俺はこの子たちには無力だ。"
 
     old "{#ch0_main_d4da3079}"
     new "こんな状況で俺が冷静な判断を下せると思うか？"
 
     old "{#ch0_main_1f374c38}"
-    new "要するに、この子たちと毎日を過ごすために詩を書くことが必要だと言うなら……"
+    new "要するに、この子たちと毎日を過ごすために詩を書くことが必要だと言うなら…"
 
     old "{#ch0_main_36037676}"
-    new "「……そうだな」"
+    new "「…そうだな」"
 
     old "{#ch0_main_ee38c6e2}"
-    new "「よし、決めたよ」"
+    new "「よし、決めた」"
 
     old "{#ch0_main_bfead9f9}"
     new "「俺は文芸部に入部する！」"
@@ -2020,7 +2020,7 @@ translate Japanese strings:
     new "「お、おい――」"
 
     old "{#ch0_main_792dfef8}"
-    new "「本当にびっくりしたんですよ……？」"
+    new "「本当にびっくりしたんですよ…？」"
 
     old "{#ch0_main_e9faf06e}"
     new "「本当にカップケーキのためだけに来てたら、超怒ってたんだからね」"
@@ -2032,7 +2032,7 @@ translate Japanese strings:
     new "「ようこそ、文芸部へ！」"
 
     old "{#ch0_main_fc5c3668}"
-    new "「あー、うん……ありがとう」"
+    new "「あー、うん…ありがとう」"
 
     old "{#ch0_main_e719ebca}"
     new "「よし、みんな！」"
@@ -2101,7 +2101,7 @@ translate Japanese strings:
     new "俺は本当に放課後を文芸部で過ごして幸せになれるのだろうか？"
 
     old "{#ch0_main_2b5dfb83}"
-    new "ひょっとすると誰か一人と親密な関係になれるチャンスが訪れるかもしれない……"
+    new "ひょっとすると誰か一人と親密な関係になれるチャンスが訪れるかもしれない…"
 
     old "{#ch0_main_16cd82b1}"
     new "よし！"
@@ -2110,37 +2110,37 @@ translate Japanese strings:
     new "この状況をうまく利用して、必ずや幸運を手にしてみせる。"
 
     old "{#ch0_main_dff2799d}"
-    new "その一歩は今夜俺が詩を書くことから始まるのだろう……"
+    new "その一歩は今夜俺が詩を書くことから始まるのだろう…"
 
     old "{#ch0_kill_e1554201}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_kill_e1554201_1}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_kill_2a5a342b}"
     new "「な、なに？」"
 
     old "{#ch0_kill_ecefd2ea}"
-    new "「……」"
+    new "「…」"
 
     old "{#ch0_kill_c846785b}"
-    new "「これは……」"
+    new "「これは…」"
 
     old "{#ch0_kill_266d53d4}"
-    new "「これは何なの……？」"
+    new "「これは何なの…？」"
 
     old "{#ch0_kill_ff8bb5a8}"
-    new "「そんな……」"
+    new "「そんな…」"
 
     old "{#ch0_kill_ee35af3b}"
-    new "「だめ……」"
+    new "「だめ…」"
 
     old "{#ch0_kill_df4d9288}"
-    new "「これだけじゃない……」"
+    new "「これだけじゃない…」"
 
     old "{#ch0_kill_d9000ecb}"
-    new "「これだけのはずがない……」"
+    new "「これだけのはずがない…」"
 
     old "{#ch0_kill_5ef55015}"
     new "「これは何？」"

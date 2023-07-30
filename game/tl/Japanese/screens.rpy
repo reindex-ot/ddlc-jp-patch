@@ -1,6 +1,6 @@
 translate Japanese strings:
     old "History"
-    new "ヒストリー"
+    new "履歴"
 
     old "Skip"
     new "スキップ"
@@ -21,13 +21,13 @@ translate Japanese strings:
     new "ニューゲーム"
 
     old "Save Game"
-    new "セーブゲーム"
+    new "セーブ"
 
     old "Load Game"
-    new "ロードゲーム"
+    new "ロード"
 
     old "End Replay"
-    new "リプレイ終了"
+    new "リプレイを終了"
 
     old "Main Menu"
     new "メインメニュー"
@@ -57,7 +57,7 @@ translate Japanese strings:
     new "空のスロット"
 
     old "Display"
-    new "ディスプレイ"
+    new "画面"
 
     old "Window"
     new "ウィンドウ"
@@ -72,28 +72,28 @@ translate Japanese strings:
     new "無効"
 
     old "Left"
-    new "レフト"
+    new "左"
 
     old "Right"
-    new "ライト"
+    new "右"
 
     old "Unseen Text"
-    new "未読テキスト"
+    new "未読のテキスト"
 
     old "After Choices"
     new "選択肢の後"
 
     old "Text Speed"
-    new "文字表示速度"
+    new "文字表示の速度"
 
     old "Auto-Forward Time"
-    new "オート待ち時間"
+    new "オートの待ち時間"
 
     old "Music Volume"
-    new "音楽の音量"
+    new "BGMの音量"
 
     old "Sound Volume"
-    new "効果音の音量"
+    new "SEの音量"
 
     old "Test"
     new "テスト"
@@ -102,10 +102,10 @@ translate Japanese strings:
     new "ボイスの音量"
 
     old "Mute All"
-    new "全てミュート"
+    new "すべてミュート"
 
     old "The dialogue history is empty."
-    new "ヒストリーはありません。"
+    new "履歴はありません。"
 
     old "OK"
     new "OK"
@@ -150,7 +150,7 @@ translate Japanese strings:
     new "アンインストール"
 
     old "Chapter Select"
-    new "チャプターセレクト"
+    new "チャプターを選択"
 
     old "Act 1 Day 1"
     new "Act 1 1日目"

@@ -8,7 +8,7 @@ translate Japanese ch1_main_ecaf5654:
     mc "「いや、そんな心配するなって」"
 
 translate Japanese ch1_main_a0e98f5a:
-    mc "「意外かも知れないが、これでも俺は約束だけは守るタイプなんだ」"
+    mc "「意外かも知れないが、これでも俺は約束だけは守るタイプなんでね」"
 
 translate Japanese ch1_main_5bff8fb6:
     "そんなこんなで、俺は文芸部へ戻って来た。"
@@ -23,7 +23,7 @@ translate Japanese ch1_main_fc35d1a5:
     y "「あなたに気苦労を負わせていないと良いのですが」"
 
 translate Japanese ch1_main_0b033aa0:
-    y 1u "「馴染みがない文学の世界に突然飛び込ませているようなものなので……」"
+    y 1u "「馴染みがない文学の世界に突然飛び込ませているようなものなので…」"
 
 translate Japanese ch1_main_4bc8df14:
     n "「もう、なによ！ 甘やかす必要なんてないでしょ」"
@@ -35,7 +35,7 @@ translate Japanese ch1_main_0e4e14ce:
     n "「それに、去年だって！」"
 
 translate Japanese ch1_main_131e8e4b:
-    n 4c "「あんたはここに来て、ただダラダラ過ごそうと考えているのかもしれないけど……」"
+    n 4c "「あんたはここに来て、ただダラダラ過ごそうと考えているのかもしれないけど…」"
 
 translate Japanese ch1_main_8ef8abd3:
     n "「真面目にやらないのなら、ここで過ごす時間もそう長くないと思いなさい」"
@@ -44,7 +44,7 @@ translate Japanese ch1_main_e8cad960:
     m "「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」"
 
 translate Japanese ch1_main_28526ae4:
-    n 4o "「モ……マ……ム……！！」"
+    n 4o "「モ…マ…ム…！！」"
 
 translate Japanese ch1_main_6ff88347:
     "ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。"
@@ -65,40 +65,40 @@ translate Japanese ch1_main_f466355f:
     s "「わたしが頼んでもいないのに、何か手伝ってくれたりするんだよ」"
 
 translate Japanese ch1_main_13c9b95d:
-    s "「料理とか、お部屋の掃除とか……」"
+    s "「料理とか、お部屋の掃除とか…」"
 
 translate Japanese ch1_main_6c9290b7:
-    y 2m "「頼りになりますね……」"
+    y 2m "「頼りになりますね…」"
 
 translate Japanese ch1_main_01768f1a:
-    mc "「サヨリ、それはお前の部屋がすごく汚いからだぞ」"
+    mc "「サヨリ、それはお前の部屋がすごく汚いからだ」"
 
 translate Japanese ch1_main_f03a36de:
     mc "「それに家が火事寸前になったこともあったし」"
 
 translate Japanese ch1_main_46619abb:
-    s 5 "「あ、それは……えへへ……」"
+    s 5 "「あ、それは…えへへ…」"
 
 translate Japanese ch1_main_e3d60137:
     y 1s "「サヨリちゃんたち、本当に仲が良いんですね」"
 
 translate Japanese ch1_main_5150f59d:
-    y "「少し羨ましいです……」"
+    y "「少し羨ましいです…」"
 
 translate Japanese ch1_main_b7fd516c:
     s 1 "「そうかな？ ユリちゃんと[player]だってきっとステキな友達になれるよ！」"
 
 translate Japanese ch1_main_6897629e:
-    y 4b "「え、えっと……」"
+    y 4b "「え、えっと…」"
 
 translate Japanese ch1_main_7b7e4806:
-    mc "「サ、サヨリ……」"
+    mc "「サ、サヨリ…」"
 
 translate Japanese ch1_main_cb503a81:
     s "「んー？」"
 
 translate Japanese ch1_main_2b35b6fe:
-    mc "「……」"
+    mc "「…」"
 
 translate Japanese ch1_main_ba3de90d:
     "いつものことだが、俺をおかしな状況に巻き込んでいることにサヨリは気付いていないようだ。"
@@ -107,19 +107,19 @@ translate Japanese ch1_main_f55ccd4d:
     s 4x "「そうだ！ ユリちゃんなんて[player]のために今日何か持ってきてくれたみたいだし～」"
 
 translate Japanese ch1_main_ea01e1e9:
-    y 3n "「ま、待って！ サヨリちゃ……」"
+    y 3n "「ま、待って！ サヨリちゃ…」"
 
 translate Japanese ch1_main_5f167be7:
     mc "「え？ 俺？」"
 
 translate Japanese ch1_main_919bbc2a:
-    y 3o "「えっと……そういうものでは……」"
+    y 3o "「えっと…そういうものでは…」"
 
 translate Japanese ch1_main_828bb88b:
     s 4r "「恥ずかしがらなくていいのに～」"
 
 translate Japanese ch1_main_05eb3e49:
-    y "「本当そういうものではなくて……」"
+    y "「本当そういうものではなくて…」"
 
 translate Japanese ch1_main_def0ad19:
     mc "「なになに？」"
@@ -128,16 +128,16 @@ translate Japanese ch1_main_637268ae:
     y 4c "「き、気にしないでください！」"
 
 translate Japanese ch1_main_cb7eb154:
-    y "「大したものではないのに、サヨリちゃん大げさ過ぎます……」"
+    y "「大したものではないのに、サヨリちゃん大げさ過ぎます…」"
 
 translate Japanese ch1_main_d9e54b67:
-    y "「うううう、どうしよう……」"
+    y "「うううう、どうしよう…」"
 
 translate Japanese ch1_main_2224ad48:
-    s 1g "「あれ？ ごめんねユリちゃん、わたし考えてなかった……」"
+    s 1g "「あれ？ ごめんねユリちゃん、わたし考えてなかった…」"
 
 translate Japanese ch1_main_9ff3c337:
-    "つまり、この状況をどう切り抜けるかは俺次第なのか……"
+    "つまり、この状況をどう切り抜けるかは俺次第なのか…"
 
 translate Japanese ch1_main_6f06b205:
     mc "「まあまあ、そんなに気にしなくていいよ」"
@@ -152,22 +152,22 @@ translate Japanese ch1_main_22fbe112:
     mc "「どんなものでも俺は嬉しいよ」"
 
 translate Japanese ch1_main_a1560f15:
-    y 3v "「そ、そうでしょうか……」"
+    y 3v "「そ、そうでしょうか…」"
 
 translate Japanese ch1_main_d86fe35f:
     mc "「まあな。もしお前がそう思われたくないなら大げさには扱わない」"
 
 translate Japanese ch1_main_6e92cc87:
-    y "「分かりました……」"
+    y "「分かりました…」"
 
 translate Japanese ch1_main_f4383968:
     y 1a "「それでは、これを」"
 
 translate Japanese ch1_main_5c6d9095:
-    "ユリはカバンから本を一冊取り出した。"
+    "ユリはバッグから本を一冊取り出した。"
 
 translate Japanese ch1_main_394a6121:
-    y "「仲間外れだと感じてほしくなくて……」"
+    y "「仲間外れだと感じてほしくなくて…」"
 
 translate Japanese ch1_main_1879c00c:
     y "「[player]さんが楽しめそうな本を選んでみました」"
@@ -176,19 +176,19 @@ translate Japanese ch1_main_c76bcbd9:
     y "「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」"
 
 translate Japanese ch1_main_1c1fa68f:
-    y "「それに、ほら、もしできたら……」"
+    y "「それに、ほら、もしできたら…」"
 
 translate Japanese ch1_main_262616a0:
-    y 4b "「話し合ったり……できればと……」"
+    y 4b "「話し合ったり…できればと…」"
 
 translate Japanese ch1_main_257a5a4c:
-    "こ、これは……"
+    "こ、これは…"
 
 translate Japanese ch1_main_dbd79240:
     "なんだか急にこいつが可愛く見えてきたぞ？"
 
 translate Japanese ch1_main_067cb0c1:
-    "それに、読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……"
+    "それに、読書に慣れてない俺が気に入りそうな本まで見繕ってくれて…"
 
 translate Japanese ch1_main_063782d3:
     mc "「ユリ、ありがとう！ 絶対読むよ！」"
@@ -197,7 +197,7 @@ translate Japanese ch1_main_a0d526be:
     "俺は心を込めて本を受け取った。"
 
 translate Japanese ch1_main_f6554ff6:
-    y "「ほっ……」"
+    y "「ほっ…」"
 
 translate Japanese ch1_main_3b5e8d6c:
     y 2a "「ご自身のペースで読み進めてくださいね」"
@@ -206,13 +206,13 @@ translate Japanese ch1_main_17c99d12:
     y "「あなたの感想、楽しみにしてます」"
 
 translate Japanese ch1_main_5d35cc1a:
-    "やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。"
+    "やっとみんなが一段落ついたところで、俺はモニカからの部活らしい指示があるか待っていた。"
 
 translate Japanese ch1_main_be0f213d:
     "だがそういう訳でもないようだ。"
 
 translate Japanese ch1_main_f081c8d6:
-    "サヨリとモニカは部屋の隅でワイワイおしゃべりをしているし。"
+    "サヨリとモニカは部屋の隅でワイワイおしゃべりをしているし、"
 
 translate Japanese ch1_main_301982d1:
     "ユリは既に本に顔を埋めている。"
@@ -263,7 +263,7 @@ translate Japanese ch1_main_5bc5f049:
     "同じように、俺もそうした。"
 
 translate Japanese ch1_end_d91458f0:
-    mc "「ふう……」"
+    mc "「ふう…」"
 
 translate Japanese ch1_end_1782371d:
     "これで全員かな。"
@@ -275,7 +275,7 @@ translate Japanese ch1_end_21f37dea:
     "思ったよりプレッシャーが大きかった。"
 
 translate Japanese ch1_end_5b12ad4c:
-    "まるで俺の文章力の平凡さを査定されているかのような……"
+    "まるで俺の文章力の平凡さを査定されているかのような…"
 
 translate Japanese ch1_end_72e6b5de:
     "良いように言ってくれてたとしても、俺の詩がみんなの出来に届くはずがないのだ。"
@@ -308,13 +308,13 @@ translate Japanese ch1_end_1583e001:
     "一方、ユリは悲しそうに微笑む。"
 
 translate Japanese ch1_end_36ce7fb5:
-    n 1q "{i}（何なのよこの言い回し……？）{/i}"
+    n 1q "{i}（何なのよこの言い回し…？）{/i}"
 
 translate Japanese ch1_end_5f1028e8:
     y 2f "「えっ？」"
 
 translate Japanese ch1_end_392e3f64:
-    y "「あの……何か言いましたか？」"
+    y "「あの…何か言いましたか？」"
 
 translate Japanese ch1_end_5a23a338:
     n 2c "「いや、何でもないわ」"
@@ -323,13 +323,13 @@ translate Japanese ch1_end_73b87d84:
     "ナツキは持っていた詩を素っ気なく片手で机の上に置いた。"
 
 translate Japanese ch1_end_678d666c:
-    n "「しゃれた感じなんじゃない」"
+    n "「シャレた感じなんじゃない」"
 
 translate Japanese ch1_end_ee8faee5:
-    y 2i "「あ、ありがとうございます……」"
+    y 2i "「あ、ありがとうございます…」"
 
 translate Japanese ch1_end_1705b12d:
-    y "「あなたのは……かわいいですね……」"
+    y "「あなたのは…かわいいですね…」"
 
 translate Japanese ch1_end_d53cb64f:
     n 2h "「かわいい？」"
@@ -347,16 +347,16 @@ translate Japanese ch1_end_d42c351b:
     y 3f "「わ、分かってます！」"
 
 translate Japanese ch1_end_b698ba3b:
-    y "「ただ私が言いたいのは……」"
+    y "「ただ私が言いたいのは…」"
 
 translate Japanese ch1_end_2c3a3a03:
-    y 3h "「その、言葉選びとか……」"
+    y 3h "「その、言葉選びとか…」"
 
 translate Japanese ch1_end_678374ea:
-    y "「気の利いたことを言えたら良かったんですけど……」"
+    y "「気の利いたことを言えたら良かったんですけど…」"
 
 translate Japanese ch1_end_5adabccb:
-    n "「はあ？」"
+    n "「はぁ？」"
 
 translate Japanese ch1_end_b10ead8d:
     n 4w "「つまり気の利いたことを言うのにそんなに苦労する作品だっていうのね」"
@@ -365,10 +365,10 @@ translate Japanese ch1_end_f9cdd784:
     n "「結構結構、でも気なんて全然利いてなかったわ！」"
 
 translate Japanese ch1_end_64c0a3eb:
-    y 1i "「えっと……」"
+    y 1i "「えっと…」"
 
 translate Japanese ch1_end_15db327d:
-    y "「その、いくつか提案したいことがあるのですが……」"
+    y "「その、いくつか提案したいことがあるのですが…」"
 
 translate Japanese ch1_end_ebd6a743:
     n 5x "「ふん」"
@@ -389,10 +389,10 @@ translate Japanese ch1_end_3afcd245:
     n "「それに、そもそもわたしからも是非提案したいことがあるわ」"
 
 translate Japanese ch1_end_4fda8f5a:
-    n "「まずねえ……」"
+    n "「まずはね…」"
 
 translate Japanese ch1_end_0b794b70:
-    y 2l "「すみません、あの……」"
+    y 2l "「すみません、あの…」"
 
 translate Japanese ch1_end_166ab7be:
     y "「折角なのですが、この文体を確立するために私は長い時間をかけてきたんです」"
@@ -404,7 +404,7 @@ translate Japanese ch1_end_7cad6bf8:
     y "「そういうものにはまだ出会えていないのですけどね」"
 
 translate Japanese ch1_end_8487fc0c:
-    n 1o "「なっ……！」"
+    n 1o "「なっ…！」"
 
 translate Japanese ch1_end_f72b1c71:
     y 1k "「それに[player]さんは私の詩も気に入って下さったみたいですよ」"
@@ -425,13 +425,13 @@ translate Japanese ch1_end_b63049e5:
     y 1n "「え、ええっ！？」"
 
 translate Japanese ch1_end_3df614f2:
-    y "「そういうわけでは……！」"
+    y "「そういうわけでは…！」"
 
 translate Japanese ch1_end_803d0e3c:
-    y 1o "「うう……」"
+    y 1o "「うう…」"
 
 translate Japanese ch1_end_acc94b27:
-    y "「あ、あなただって……」"
+    y "「あ、あなただって…」"
 
 translate Japanese ch1_end_6a5c0c7b:
     "ユリも同じように席を立つ。"
@@ -446,31 +446,31 @@ translate Japanese ch1_end_6d2144a0:
     n "「調子に乗りすぎなんじゃないの？」"
 
 translate Japanese ch1_end_c1eb1e36:
-    y 3h "「私は……！」"
+    y 3h "「私は…！」"
 
 translate Japanese ch1_end_bfadd2bc:
-    y "「違う……」"
+    y "「違う…」"
 
 translate Japanese ch1_end_8d1dcf35:
-    y "「私が調子に乗っていたのなら……」"
+    y "「私が調子に乗っていたのなら…」"
 
 translate Japanese ch1_end_5e4e458d:
     y 1r "「私だってわざとらしくぶりっ子してますよ！」"
 
 translate Japanese ch1_end_ccdb66db:
-    n 1o "「うううぐぐぐぐ……！」"
+    n 1o "「うううぐぐぐぐ…！」"
 
 translate Japanese ch1_end_7e82068e:
     s "「あの、えっと！！」"
 
 translate Japanese ch1_end_983f9fbc:
-    s "「みんな大丈夫……？」"
+    s "「みんな大丈夫…？」"
 
 translate Japanese ch1_end_f982a2f8:
-    n 1f "「じゃあ言うけどね！」"
+    n 1f "「じゃあ言うけど！」"
 
 translate Japanese ch1_end_09b7047e:
-    n "「[player]が入ってから突然胸をワンサイズ盛りだしたのはどっちよ？！」"
+    n "「[player]が入ってから突然胸をワンサイズ盛りだしたのはどっちなのよ！？」"
 
 translate Japanese ch1_end_9b07aefd:
     y "「な、ナツキちゃん！！」"
@@ -482,16 +482,16 @@ translate Japanese ch1_end_6f0acf5a:
     ny "「部外者は黙ってて！」\n「部外者は黙っててください！」"
 
 translate Japanese ch1_end_13234d47:
-    s "「け、ケンカはダメだよ、みんな……！」"
+    s "「け、ケンカはダメだよ、みんな…！」"
 
 translate Japanese ch1_end_92bd4b5a:
     "突然二人は、俺がそこにいることに今気づいたようにこちらへ振り向いた。"
 
 translate Japanese ch1_end_1e4f93b8:
-    y 2n "「[player]さん……！」"
+    y 2n "「[player]さん…！」"
 
 translate Japanese ch1_end_470c0d03:
-    y "「こ、この子が私の印象を悪くしようとしてるだけなんです……！」"
+    y "「こ、この子が私の印象を悪くしようとしてるだけなんです…！」"
 
 translate Japanese ch1_end_c5e00378:
     n 4w "「違うでしょ！」"
@@ -500,7 +500,7 @@ translate Japanese ch1_end_0c50491a:
     n "「そっちが始めたんでしょうが！」"
 
 translate Japanese ch1_end_7081a731:
-    n 4e "「もしユリが偏屈な態度を改めて、素直な文が一番効果的だって受け入れていれば……」"
+    n 4e "「もしユリが偏屈な態度を改めて、素直な文が一番効果的だって受け入れていれば…」"
 
 translate Japanese ch1_end_38ebaf85:
     n "「最初からこんなことにはならなかったのよ！」"
@@ -524,25 +524,25 @@ translate Japanese ch1_end_31c575da:
     y 3w "「入り組んだ感情や意味合いを伝えるにはそれしか方法がないですから」"
 
 translate Japanese ch1_end_fb49746f:
-    y "「折角のそれを避けてしまうだなんて、不必要に言葉を縛るどころか……無駄にしています！」"
+    y "「折角のそれを避けてしまうだなんて、不必要に言葉を縛るどころか…無駄にしています！」"
 
 translate Japanese ch1_end_1d6207cf:
     y 1t "「あなたもそう思いますよね、[player]さん？」"
 
 translate Japanese ch1_end_949bf05b:
-    mc "「えええ……！」"
+    mc "「えええ…！」"
 
 translate Japanese ch1_end_7d732439:
     ny "「どうなの？？」"
 
 translate Japanese ch1_end_2b35b6fe:
-    mc "「……」"
+    mc "「…」"
 
 translate Japanese ch1_end_7bcc12ff:
     "そもそもどうして俺が巻き込まれてるんだ！？"
 
 translate Japanese ch1_end_92ecde6c:
-    "書き物について特に詳しいわけでもないのに……"
+    "書き物について特に詳しいわけでもないのに…"
 
 translate Japanese ch1_end_a01de81d:
     "でもどっちかに俺が賛成したら、きっとその子からは評価されるはずだ！"
@@ -569,7 +569,7 @@ translate Japanese ch1_end_4e8e7a24:
     m 1a "「[player]君はどうだった？」"
 
 translate Japanese ch1_end_ee94d4f4:
-    mc "「……ああ、同じく」"
+    mc "「…ああ、同じく」"
 
 translate Japanese ch1_end_ac5036c4:
     mc "「みんなと交流するのには面白い題材だったよ」"
@@ -587,7 +587,7 @@ translate Japanese ch1_end_f826e16b:
     m 3b "「きっとより素敵な詩が書けるはずよ！」"
 
 translate Japanese ch1_end_2b35b6fe_1:
-    mc "「……」"
+    mc "「…」"
 
 translate Japanese ch1_end_30393e48:
     "俺は考える。"
@@ -623,10 +623,10 @@ translate Japanese ch1_end_d2aad54c:
     "決して、俺も楽しんでない訳ではない。"
 
 translate Japanese ch1_end_e87e0575:
-    mc "「サヨリ……」"
+    mc "「サヨリ…」"
 
 translate Japanese ch1_end_00d40828:
-    mc "「さっきの事なんだけどさ……」"
+    mc "「さっきの事なんだけどさ…」"
 
 translate Japanese ch1_end_cebd3143:
     s 1b "「え？ なんのこと？」"
@@ -641,13 +641,13 @@ translate Japanese ch1_end_5b6266e8:
     s 4j "「ないないない！」"
 
 translate Japanese ch1_end_51e2edaa:
-    s "「あんなにケンカしてるのはわたしも初めて見たよ……」"
+    s "「あんなにケンカしてるのはわたしも初めて見たよ…」"
 
 translate Japanese ch1_end_e7e072a2:
     s "「二人ともほんと素敵な子だよ」"
 
 translate Japanese ch1_end_972589c7:
-    s 1g "「二人のこと……嫌いになんかなってない、よね？」"
+    s 1g "「二人のこと…嫌いになんかなってない、よね？」"
 
 translate Japanese ch1_end_5130e1ef:
     mc "「そんな、全然嫌ってないぞ！」"
@@ -659,13 +659,13 @@ translate Japanese ch1_end_08ee0a33:
     mc "「あいつらがお前とウマが合いそうだってのは分かるんだ」"
 
 translate Japanese ch1_end_4b14d678:
-    s 1d "「ふー……」"
+    s 1d "「ふー…」"
 
 translate Japanese ch1_end_4e43dbcd:
-    s "「あのね、[player]……」"
+    s "「あのね、[player]…」"
 
 translate Japanese ch1_end_db975472:
-    s "「わたし、[player]と一緒に部活できて嬉しい」"
+    s "「わたし、[player]と一緒に部活できて嬉しいよ」"
 
 translate Japanese ch1_end_38b701db:
     s "「でもみんなと打ち解けてく[player]を見てるのが、わたしの一番の幸せなの」"
@@ -683,22 +683,22 @@ translate Japanese ch1_end_c91bd0a4:
     s "「毎日がどんどん楽しくなっちゃいそう～」"
 
 translate Japanese ch1_end_0a69f768:
-    mc "「はあ……」"
+    mc "「はあ…」"
 
 translate Japanese ch1_end_9266189c:
     "未だにサヨリは俺がどういう状況に置かれているか理解していないようだ。"
 
 translate Japanese ch1_end_b7681491:
-    "勿論みんなと親交を深めることは良いのだが……"
+    "勿論みんなと親交を深めることは良いのだが…"
 
 translate Japanese ch1_end_f9856566:
-    "……本当にそこで止めてしまって良いのだろうか？"
+    "…本当にそこで止めてしまって良いのだろうか？"
 
 translate Japanese ch1_end_541bf745:
     mc "「この先何が待ち構えているかは見ものだな、サヨリ」"
 
 translate Japanese ch1_end_87c0a22e:
-    "俺はサヨリの肩をぽんと叩いた。"
+    "俺はサヨリの肩を「ぽん」と叩いた。"
 
 translate Japanese ch1_end_59c79ef1:
     "むしろ自分自身に放った言葉だが、時にサヨリは独りごとの相手として役に立つ。"
@@ -707,13 +707,13 @@ translate Japanese ch1_end_0e972831:
     s 1x "「そうだね～！」"
 
 translate Japanese ch1_end_4914da37:
-    "それじゃあ……"
+    "それじゃあ…"
 
 translate Japanese ch1_end_74c5fcd0:
     "がんばるぞ！"
 
 translate Japanese ch1_end_natsuki_6b0ed824:
-    mc "「えっと……」"
+    mc "「えっと…」"
 
 translate Japanese ch1_end_natsuki_530f484c:
     mc "「ユリ！」"
@@ -722,19 +722,19 @@ translate Japanese ch1_end_natsuki_2948d978:
     mc "「お前には確かに才能がある」"
 
 translate Japanese ch1_end_natsuki_cef5cdd2:
-    y "「え？ そ、そう……」"
+    y "「え？ そ、そう…」"
 
 translate Japanese ch1_end_natsuki_22a83972:
     mc "「だけどナツキの言うことも一理ある！」"
 
 translate Japanese ch1_end_natsuki_238ab007:
-    mc "「俺が思うに……」"
+    mc "「俺が思うに…」"
 
 translate Japanese ch1_end_natsuki_3f4021d6:
     "俺は頭をフル回転させて言葉を紡ごうとする。"
 
 translate Japanese ch1_end_natsuki_3b9ffb4a:
-    mc "「俺が思うに、短い言葉で感情を伝えることだって……」"
+    mc "「俺が思うに、短い言葉で感情を伝えることだって…」"
 
 translate Japanese ch1_end_natsuki_c2d4bea8:
     mc "「充分印象的になり得る！」"
@@ -746,7 +746,7 @@ translate Japanese ch1_end_natsuki_ea8608a3:
     mc "「だからナツキの詩はその点では見事な出来栄えだ」"
 
 translate Japanese ch1_end_natsuki_86a8805e:
-    n 5y "「……そうよ！」"
+    n 5y "「…そうよ！」"
 
 translate Japanese ch1_end_natsuki_02741fe7:
     n "「そうでしょ！？」"
@@ -755,31 +755,31 @@ translate Japanese ch1_end_natsuki_92b8c94a:
     n "「やったー！」"
 
 translate Japanese ch1_end_natsuki_73e7cb3c:
-    n "「ざまあみなさい！」"
+    n "「ざまぁみなさい！」"
 
 translate Japanese ch1_end_natsuki_51b927a8:
-    y 4b "「そ、そんな……」"
+    y 4b "「そ、そんな…」"
 
 translate Japanese ch1_end_natsuki_3aa42c3b:
-    mc "「ナツキ……」"
+    mc "「ナツキ…」"
 
 translate Japanese ch1_end_natsuki_d7abd363:
     mc "「それぐらいでいいだろ」"
 
 translate Japanese ch1_end_natsuki_afccc67b:
-    n 1m "「はあ？」"
+    n 1m "「はぁ？」"
 
 translate Japanese ch1_end_natsuki_d355ffe4:
     n "「わたし？」"
 
 translate Japanese ch1_end_natsuki_94f204ed:
-    n "「でもユリが意地悪してきたのよ……！」"
+    n "「でもユリが意地悪してきたのよ…！」"
 
 translate Japanese ch1_end_natsuki_63711e82:
     "ナツキは半泣きで声を上げる。"
 
 translate Japanese ch1_end_natsuki_ff0f1aa3:
-    mc "「ほら……」"
+    mc "「ほら…」"
 
 translate Japanese ch1_end_natsuki_0b4a4df1:
     mc "「俺たちが昨日言っていたことは的を射ていたんだ」"
@@ -803,7 +803,7 @@ translate Japanese ch1_end_natsuki_b4126f31:
     "サヨリがうんうんと頷いている。"
 
 translate Japanese ch1_end_natsuki_3f908872:
-    mc "「だから、その……」"
+    mc "「だから、その…」"
 
 translate Japanese ch1_end_natsuki_f07274fb:
     mc "「お前はそんなに怯えなくても良いんじゃないかな」"
@@ -818,16 +818,16 @@ translate Japanese ch1_end_natsuki_bd7f6044:
     "ナツキは意外そうな声を出す。"
 
 translate Japanese ch1_end_natsuki_b08cfab5:
-    n 1q "「……教えてくれてありがと」"
+    n 1q "「…教えてくれてありがと」"
 
 translate Japanese ch1_end_natsuki_1cc2aa55:
     "辛うじて聞き取れる声で彼女はそう呟いた。"
 
 translate Japanese ch1_end_natsuki_d90390e4:
-    mc "「ユリ……」"
+    mc "「ユリ…」"
 
 translate Japanese ch1_end_natsuki_f9e2ab2a:
-    y 4a "「……？」"
+    y 4a "「…？」"
 
 translate Japanese ch1_end_natsuki_2da93ee0:
     "ユリはしょげた様子で俺を見る。"
@@ -842,13 +842,13 @@ translate Japanese ch1_end_natsuki_43de7911:
     mc "「だからお前もそんなに怯えなくて大丈夫だ」"
 
 translate Japanese ch1_end_natsuki_de41a4f9:
-    y 2v "「はい……」"
+    y 2v "「はい…」"
 
 translate Japanese ch1_end_natsuki_aae9fe8e:
-    y "「あなたがそう言うのでしたら……」"
+    y "「あなたがそう言うのでしたら…」"
 
 translate Japanese ch1_end_natsuki_adc03d3c:
-    n 1g "「ねえ……！」"
+    n 1g "「ねえ…！」"
 
 translate Japanese ch1_end_natsuki_4ddde058:
     n "「わたしの代わりに謝らなくていいじゃない、[player]」"
@@ -860,13 +860,13 @@ translate Japanese ch1_end_natsuki_700fd121:
     "ナツキは息をついた。"
 
 translate Japanese ch1_end_natsuki_5337a10e:
-    n 1q "「わたし……」"
+    n 1q "「わたし…」"
 
 translate Japanese ch1_end_natsuki_40e7592e:
-    n "「その……」"
+    n "「その…」"
 
 translate Japanese ch1_end_natsuki_e349a681:
-    n "「うう……」"
+    n "「うう…」"
 
 translate Japanese ch1_end_natsuki_318a845f:
     "ナツキは部屋を見回す。"
@@ -878,13 +878,13 @@ translate Japanese ch1_end_natsuki_4d4ce7e2:
     "当たり前だが、自慢していた時よりバツが悪そうにしている。"
 
 translate Japanese ch1_end_natsuki_36414005:
-    "サヨリとモニカは目をそらした。"
+    "サヨリとモニカは目を逸らした。"
 
 translate Japanese ch1_end_natsuki_45914793:
     n 1i "「ふん」"
 
 translate Japanese ch1_end_natsuki_99ec11cf:
-    n "「とにかく……！」"
+    n "「とにかく…！」"
 
 translate Japanese ch1_end_natsuki_21071d4a:
     n 1q "「あんたの胸のことに関しては何でもないわ、分かった？」"
@@ -902,25 +902,25 @@ translate Japanese ch1_end_natsuki_04b993cf:
     mc "「サヨリ！？」"
 
 translate Japanese ch1_end_natsuki_71a86863:
-    y "「……」"
+    y "「…」"
 
 translate Japanese ch1_end_natsuki_1b5f1f04:
-    y "「お、お茶を淹れてきますね……」"
+    y "「お、お茶を淹れてきますね…」"
 
 translate Japanese ch1_end_natsuki_a0361679:
     s 4h "「え～？」"
 
 translate Japanese ch1_end_natsuki_ebd4f509:
-    s "「助け舟を出しただけなのにぃ！」"
+    s "「助け舟を出しただけなのにぃー！」"
 
 translate Japanese ch1_end_natsuki_9f7b6d8e:
     mc "「きっとユリは感謝してると思うぞ、サヨリ」"
 
 translate Japanese ch1_end_natsuki_87c0a22e:
-    "俺はサヨリの肩をぽんと叩いた。"
+    "俺はサヨリの肩を「ぽん」と叩いた。"
 
 translate Japanese ch1_end_natsuki_0a668bd6:
-    m "「よし、この話はおしまいにして……」"
+    m "「よし、この話はおしまいにして…」"
 
 translate Japanese ch1_end_natsuki_09bd72e2:
     m 4b "「みんなの詩は見せ合いっこできたわよね？」"
@@ -932,7 +932,7 @@ translate Japanese ch1_end_natsuki_63e99776:
     m 5 "「特に[player]君にね！」"
 
 translate Japanese ch1_end_natsuki_f262d45c:
-    m "「それと、実は……」"
+    m "「それと、実は…」"
 
 translate Japanese ch1_end_natsuki_b35f094a:
     m "「今まではちょっとのんびりしすぎちゃってたから、ペースを変えるには丁度良かったの」"
@@ -941,7 +941,7 @@ translate Japanese ch1_end_natsuki_0be65a41:
     m "「あははは！」"
 
 translate Japanese ch1_end_natsuki_486594ac:
-    mc "「あー、俺が入部したせいで雰囲気ぶち壊しになっちゃったせいだな……」"
+    mc "「あー、俺が入部したせいで雰囲気ぶち壊しになっちゃったせいだな…」"
 
 translate Japanese ch1_end_natsuki_9f47eaa8:
     m 1d "「そんな、全然そんなことないわ！」"
@@ -953,7 +953,7 @@ translate Japanese ch1_end_natsuki_434768a2:
     m 1a "「ちょっと休憩しましょう」"
 
 translate Japanese ch1_end_natsuki_17703def:
-    m "「もちろん部室内では、おしゃべりしながら文学関連のこともやるから……」"
+    m "「もちろん部室内では、おしゃべりしながら文学関連のこともやるから…」"
 
 translate Japanese ch1_end_natsuki_71c5632c:
     m "「読書や物書きに触れる良い機会になると思うわ」"
@@ -971,19 +971,19 @@ translate Japanese ch1_end_natsuki_80d3e081:
     s 2i "「文芸部で一番大事なことはそれじゃないよ！」"
 
 translate Japanese ch1_end_natsuki_3b646d1d:
-    s "「一番大事なのは……」"
+    s "「一番大事なのは…」"
 
 translate Japanese ch1_end_natsuki_528afc18:
     s "「楽しむこと！」"
 
 translate Japanese ch1_end_natsuki_48b2a88f:
-    m 2l "「あはは、そうね……」"
+    m 2l "「あはは、そうね…」"
 
 translate Japanese ch1_end_natsuki_e27c2b2d:
     m 2a "「まあ、あなたが副部長なのも納得だわ、サヨリ」"
 
 translate Japanese ch1_end_natsuki_5b525ad4:
-    s 4q "「えへへ……」"
+    s 4q "「えへへ…」"
 
 translate Japanese ch1_end_natsuki_80c6af4f:
     "だが結局のところ、モニカが正しい。"
@@ -992,10 +992,10 @@ translate Japanese ch1_end_natsuki_0e6c35d6:
     "文芸部に所属するからには、俺は何もしないわけにはいかない。"
 
 translate Japanese ch1_end_natsuki_24e861c2:
-    "でもやっぱり……"
+    "でもやっぱり…"
 
 translate Japanese ch1_end_natsuki_70780fb7:
-    "……今のところそれだけの価値はあると思っている。"
+    "…今のところそれだけの価値はあると思っている。"
 
 translate Japanese ch1_end_yuri_9659bc81:
     mc "「ナツキ」"
@@ -1022,7 +1022,7 @@ translate Japanese ch1_end_yuri_31979c34:
     n "「ユリはわたしの詩をまともにとり合ってくれないのに！」"
 
 translate Japanese ch1_end_yuri_48b99b4e:
-    mc "「うーん……」"
+    mc "「うーん…」"
 
 translate Japanese ch1_end_yuri_83495ed0:
     mc "「分かった」"
@@ -1040,13 +1040,13 @@ translate Japanese ch1_end_yuri_afe77c34:
     mc "「俺が感動したのは隠すまでもない」"
 
 translate Japanese ch1_end_yuri_ba5ada9a:
-    y 2u "「そ、そう、その……」"
+    y 2u "「そ、そう、その…」"
 
 translate Japanese ch1_end_yuri_0045dfbc:
     mc "「だが俺が言いたいのは」"
 
 translate Japanese ch1_end_yuri_6ba215bf:
-    mc "「どんなに単純で洗練された文体であっても……」"
+    mc "「どんなに単純で洗練された文体であっても…」"
 
 translate Japanese ch1_end_yuri_d2525a4d:
     mc "「その中にはやっぱり想いが込められていて、それは至って私的なものなんだ」"
@@ -1055,22 +1055,22 @@ translate Japanese ch1_end_yuri_8fcbadf1:
     mc "「だからかわいいと言われたときにナツキは脅かされたと感じたんじゃないか」"
 
 translate Japanese ch1_end_yuri_b150645d:
-    y 2v "「なるほど……」"
+    y 2v "「なるほど…」"
 
 translate Japanese ch1_end_yuri_39b1ea43:
-    y "「気づけなくてその……」"
+    y "「気づけなくてその…」"
 
 translate Japanese ch1_end_yuri_5683b46a:
-    y 2w "「ごめんなさい……」"
+    y 2w "「ごめんなさい…」"
 
 translate Japanese ch1_end_yuri_9f719d9d:
-    y "「ううう……」"
+    y "「ううう…」"
 
 translate Japanese ch1_end_yuri_48c7e0a8:
     mc "「でもナツキ、お前は過剰反応しすぎだ！」"
 
 translate Japanese ch1_end_yuri_4e6d87c6:
-    mc "「ユリは善かれと思ってやったんだし、もしお前がどういう想いか彼女に話していれば……」"
+    mc "「ユリは善かれと思ってやったんだし、もしお前がどういう想いか彼女に話していれば…」"
 
 translate Japanese ch1_end_yuri_b0d9bf22:
     mc "「初めからこんなことにはならなかったんじゃないか」"
@@ -1082,7 +1082,7 @@ translate Japanese ch1_end_yuri_d9b46044:
     n "「ちゃんとそうしたじゃないの！」"
 
 translate Japanese ch1_end_yuri_09d725af:
-    n "「それだってあいつが……」"
+    n "「それだってあいつが…」"
 
 translate Japanese ch1_end_yuri_c6fe493e:
     m "「ナツキ、それ位にしときましょ」"

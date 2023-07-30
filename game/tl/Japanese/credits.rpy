@@ -1,15 +1,15 @@
 translate Japanese strings:
     old "Can you hear me…?"
-    new "聞こえる……？"
+    new "聞こえる…？"
 
     old "Hi, it's me."
     new "やっほー、私よ"
 
     old "Um... So you know how I've been like, practicing piano and stuff?"
-    new "えっと……私がピアノを練習したりしてたのは知ってるでしょ？"
+    new "えっと…私がピアノを練習したりしてたのは知ってるでしょ？"
 
     old "And – I’m not really any good at it yet…like, at all."
-    new "まぁ……まだ全然上手くないんだけど、ほんとに、全然"
+    new "まぁ…まだ全然上手くないんだけど、ほんとに、全然"
 
     old "But I wrote you a song"
     new "でもあなたのために歌を作ったから"
@@ -18,10 +18,10 @@ translate Japanese strings:
     new "できれば聞いてもらえたらって思って"
 
     old "because I worked really…really hard on it."
-    new "すっごく……すっごく頑張って作ったから"
+    new "すっごく…すっごく頑張って作ったから"
 
     old "So…yeah!"
-    new "だから……ね！"
+    new "だから…ね！"
 
     old "Every day,{#translate}"
     new "毎日"
@@ -99,7 +99,7 @@ translate Japanese strings:
     new "私はもう、何もしない"
 
     old "Concept & Game Design"
-    new "構想 & デザイン"
+    new "コンセプトとゲームデザイン"
 
     old "Character Art"
     new "キャラクターデザイン"

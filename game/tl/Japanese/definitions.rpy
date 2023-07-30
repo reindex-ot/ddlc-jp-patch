@@ -12,16 +12,16 @@ translate Japanese strings:
     new "ユリ"
 
     old "Nat & Yuri"
-    new "ナツキ＆ユリ"
+    new "ナツキとユリ"
 
     old "???"
-    new "？？？"
+    new "???"
 
     old "Girl 1"
-    new "女子Ａ"
+    new "女子 A"
 
     old "Girl 2"
-    new "女子Ｂ"
+    new "女子 B"
 
     old "Girl 3"
-    new "女子Ｃ"
+    new "女子 C"

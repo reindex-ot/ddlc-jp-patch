@@ -636,7 +636,7 @@ I want breakfast."""
 あさごはんたべたいな。"""
 
     old "Bottles"
-    new "ビン"
+    new "ボトル"
 
     old """\
 I pop off my scalp like the lid of a cookie jar.

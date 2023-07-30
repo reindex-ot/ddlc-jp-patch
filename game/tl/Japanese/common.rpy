@@ -42,76 +42,76 @@
     new "{#weekday_short}日"
 
     old "{#month}January"
-    new "{#month}１月"
+    new "{#month}1月"
 
     old "{#month}February"
-    new "{#month}２月"
+    new "{#month}2月"
 
     old "{#month}March"
-    new "{#month}３月"
+    new "{#month}3月"
 
     old "{#month}April"
-    new "{#month}４月"
+    new "{#month}4月"
 
     old "{#month}May"
-    new "{#month}５月"
+    new "{#month}5月"
 
     old "{#month}June"
-    new "{#month}６月"
+    new "{#month}6月"
 
     old "{#month}July"
-    new "{#month}７月"
+    new "{#month}7月"
 
     old "{#month}August"
-    new "{#month}８月"
+    new "{#month}8月"
 
     old "{#month}September"
-    new "{#month}９月"
+    new "{#month}9月"
 
     old "{#month}October"
-    new "{#month}１０月"
+    new "{#month}10月"
 
     old "{#month}November"
-    new "{#month}１１月"
+    new "{#month}11月"
 
     old "{#month}December"
-    new "{#month}１２月"
+    new "{#month}12月"
 
     old "{#month_short}Jan"
-    new "{#month_short}１月"
+    new "{#month_short}1月"
 
     old "{#month_short}Feb"
-    new "{#month_short}２月"
+    new "{#month_short}2月"
 
     old "{#month_short}Mar"
-    new "{#month_short}３月"
+    new "{#month_short}3月"
 
     old "{#month_short}Apr"
-    new "{#month_short}４月"
+    new "{#month_short}4月"
 
     old "{#month_short}May"
-    new "{#month_short}５月"
+    new "{#month_short}5月"
 
     old "{#month_short}Jun"
-    new "{#month_short}６月"
+    new "{#month_short}6月"
 
     old "{#month_short}Jul"
-    new "{#month_short}７月"
+    new "{#month_short}7月"
 
     old "{#month_short}Aug"
-    new "{#month_short}８月"
+    new "{#month_short}8月"
 
     old "{#month_short}Sep"
-    new "{#month_short}９月"
+    new "{#month_short}9月"
 
     old "{#month_short}Oct"
-    new "{#month_short}１０月"
+    new "{#month_short}10月"
 
     old "{#month_short}Nov"
-    new "{#month_short}１１月"
+    new "{#month_short}11月"
 
     old "{#month_short}Dec"
-    new "{#month_short}１２月"
+    new "{#month_short}12月"
 
     old "%b %d, %H:%M"
     new "%m月%d日, %H:%M"
@@ -120,19 +120,19 @@
     new "ページ {}"
 
     old "Automatic saves"
-    new "オートセーブ"
+    new "自動セーブ"
 
     old "Quick saves"
     new "クイックセーブ"
 
     old "Quick save complete."
-    new "クイックセーブ完了。"
+    new "クイックセーブが完了しました。"
 
     old "The interactive director is not enabled here."
     new "ここではインタラクティブディレクターは使えません"
 
     old "Done"
-    new "終了"
+    new "完了"
 
     old "(statement)"
     new "(statement)"
@@ -189,25 +189,25 @@
     new "キャンセル"
 
     old "Audio Filename:"
-    new "オーディオファイルネーム:"
+    new "オーディオファイル名:"
 
     old "Are you sure?"
     new "続けますか？"
 
     old "Are you sure you want to delete this save?"
-    new "このセーブデータを消去しますか？"
+    new "このセーブデータを削除しますか？"
 
     old "Are you sure you want to overwrite your save?"
     new "このセーブデータに上書きしますか？"
 
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "ロードすると、セーブされていない進行状況は失われます。\nロードしますか？"
+    new "ロードをすると、セーブをしていない進行状況は失われます。\nロードしますか？"
 
     old "Are you sure you want to quit?"
     new "終了しますか？"
 
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "メインメニューに戻りますか？\nセーブされていない進行状況は失われます。"
+    new "メインメニューに戻りますか？\nセーブがされていない進行状況は失われます。"
 
     old "Are you sure you want to end the replay?"
     new "リプレイを終了しますか？"
@@ -219,7 +219,7 @@
     new "次の選択肢までスキップしますか？"
 
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "次の選択肢まで、未読テキストをスキップしますか？"
+    new "次の選択肢まで、未読のテキストをスキップしますか？"
 
     old "Failed to save screenshot as %s."
     new "Failed to save screenshot as %s."
@@ -228,13 +228,13 @@
     new "スクリーンショットを %s に保存しました。"
 
     old "Self-voicing disabled."
-    new "セルフボイシング無効化。"
+    new "セルフボイシングを無効化。"
 
     old "Clipboard voicing enabled. "
-    new "クリップボードボイシング有効化。"
+    new "クリップボードボイシングを有効化。"
 
     old "Self-voicing enabled. "
-    new "セルフボイシング有効化。"
+    new "セルフボイシングを有効化。"
 
     old "Skip Mode"
     new "スキップモード"
@@ -243,13 +243,13 @@
     new "本プログラムは、MIT License や GNU Lesser General Public License など、様々なライセンスのフリーウェアを含んでいます。 フルソースコードへのリンクを含む、完全なソフトウェアのリストは、{a=https://www.renpy.org/l/license}ここ{/a}にあります。"
 
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "クリップボードボイシングを有効化しました。 'shift+C'で無効化します。"
+    new "クリップボードボイシングを有効化しました。 'Shift+C'で無効化します。"
 
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "セルフボイシングは次のように話します。 \"[renpy.display.tts.last]\". 'alt+shift+V' で無効化します。"
+    new "セルフボイシングは次のように話します。 \"[renpy.display.tts.last]\". 'Alt+Shift+V' で無効化します。"
 
     old "Self-voicing enabled. Press 'v' to disable."
-    new "セルフボイシングを有効化しました。 'v' で無効化します。"
+    new "セルフボイシングを有効化しました。 'V' で無効化します。"
 
     old "Empty Slot."
     new "空きスロット"
@@ -270,7 +270,7 @@
     new "インタラクティブディレクター(D)"
 
     old "Reload Game (Shift+R)"
-    new "ゲームのリロード (Shift+R)"
+    new "ゲームの再読み込み (Shift+R)"
 
     old "Console (Shift+O)"
     new "コンソール (Shift+D)"
@@ -285,16 +285,16 @@
     new "ファイル名のリスト"
 
     old "Show Image Load Log"
-    new "画像ロード履歴の表示"
+    new "画像ロード履歴を表示"
 
     old "Hide Image Load Log"
-    new "画像ロード履歴の非表示"
+    new "画像ロード履歴を非表示"
 
     old "Show Texture Size"
-    new "Show Texture Size"
+    new "テクスチャサイズを表示"
 
     old "Hide Texture size"
-    new "Hide Texture size"
+    new "テクスチャサイズを非表示"
 
     old "Nothing to inspect."
     new "インスペクトするものがありません"
@@ -348,10 +348,10 @@
     new "Displayable:"
 
     old "        (no properties affect the displayable)"
-    new "        (Displayable に影響しているプロパティーはありません)"
+    new "        (Displayable に影響しているプロパティはありません)"
 
     old "        (default properties omitted)"
-    new "        (デフォルトのプロパティーは省略します)"
+    new "        (デフォルトのプロパティは省略します)"
 
     old "<repr() failed>"
     new "<repr() 失敗>"
@@ -447,19 +447,19 @@
     new "戻る"
 
     old "Graphics Acceleration"
-    new "グラフィック・アクセラレーション"
+    new "グラフィックの最適化"
 
     old "Automatically Choose"
-    new "自動で選択する"
+    new "自動で選択"
 
     old "Force Angle/DirectX Renderer"
-    new "Angle/DirectX レンダラーを使う"
+    new "Angle/DirectX レンダラーを使用する"
 
     old "Force OpenGL Renderer"
-    new "OpenGL レンダラーを使う"
+    new "OpenGL レンダラーを使用する"
 
     old "Force Software Renderer"
-    new "ソフトウェアレンダラーを使う"
+    new "ソフトウェアレンダラーを使用する"
 
     old "NPOT"
     new "NPOT"
@@ -474,7 +474,7 @@
     new "キャリブレート"
 
     old "Changes will take effect the next time this program is run."
-    new "変更は次回起動時から適用されます"
+    new "設定の変更は次回起動時に適用されます"
 
     old "Performance Warning"
     new "パフォーマンスに関する注意"
@@ -498,7 +498,7 @@
     new "グラフィックドライバーが古いか、正常に動作していません。表示が遅れたり、正しく表示されない可能性があります。"
 
     old "Update DirectX"
-    new "DirectXのアップデート"
+    new "DirectXをアップデート"
 
     old "Continue, Show this warning again"
     new "次回もこの警告を表示する"
@@ -507,13 +507,13 @@
     new "次回はこの警告を表示しない"
 
     old "Updating DirectX."
-    new "DirectXのアップデート中"
+    new "DirectXをアップデート中です。"
 
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "DirectX ウェブセットアップを開始しました。タスクバーに最小化されていることがありますが、指示通りにインストールしてください。"
+    new "DirectX Web セットアップを開始しました。タスクバーに最小化されていることがありますが、指示通りにインストールしてください。"
 
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}注意:{/b} Microsoft の DirectX ウェブセットアッププログラムは、デフォルトで Bing ツールバーをインストールします。このツールバーが不要な場合は、対応したチェックボックスを解除して下さい。"
+    new "{b}注意:{/b} Microsoft の DirectX Web セットアッププログラムは、デフォルトで Bing ツールバーをインストールします。このツールバーが不要な場合は、対応したチェックボックスを解除して下さい。"
 
     old "When setup finishes, please click below to restart this program."
     new "セットアップが完了したら、下のボタンを押して再起動してください。"
@@ -522,7 +522,7 @@
     new "再起動"
 
     old "Select Gamepad to Calibrate"
-    new "キャリブレートするゲームパッドを選択してください。"
+    new "キャリブレートをするゲームパッドを選択してください。"
 
     old "No Gamepads Available"
     new "有効なゲームパッドがありません。"
@@ -570,10 +570,10 @@
     new "例外を無視してゲームを続行します。連鎖的にエラーが発生する可能性があります。"
 
     old "Reload"
-    new "リロード"
+    new "再読み込み"
 
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "ディスクからゲームをリロードして、現在の状況を保存、可能であれば復元します。"
+    new "ディスクからゲームを再読み込みをして現在の状況を保存、可能であれば復元をします。"
 
     old "Console"
     new "コンソール"
